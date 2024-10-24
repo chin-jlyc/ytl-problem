@@ -1,0 +1,338 @@
+[
+    {
+        "old_section_no": "1",
+        "new_section_no": "1",
+        "section": "Introduction",
+        "difference": "Version 2 introduces a broader scope for e-KYC applications, including legal persons, and emphasizes the onboarding process, while Version 1 focuses solely on individuals and the general digitalisation of financial services.",
+        "impact": "The change in Version 2 to include legal persons expands the applicability of the e-KYC policy, potentially increasing the regulatory burden on financial institutions to ensure compliance for a wider range of customers. This could enhance the effectiveness of AML/CFT measures but may also require additional resources and training for institutions to adapt to the new requirements. Furthermore, the emphasis on onboarding processes may shift the focus of financial institutions towards improving customer experience and efficiency in the initial stages of customer engagement.",
+        "highlighted_phrases_from_version_1": [
+            "The digitalisation of identification and verification processes is an important enabler to increase the convenience and reach, as well as lower the costs of financial services.",
+            "A key aspect of digitalisation entails the delivery of end-to-end financial solutions through online and mobile channels, supported by the adoption of financial technology.",
+            "The Bank expects the outcome of e-KYC technology adoption in the financial sector to include uncompromised accuracy in customer identification and verification.",
+            "This policy document sets out the minimum requirements and standards that a financial institution, as defined in paragraph 5.2, must observe in implementing e-KYC for the identification and verification of individuals."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "Supported by further technological advancements and introduction of electronic Know-Your-Customer (e-KYC) solutions for the financial sector, digitalisation of the customer identification and verification processes has become an increasingly prominent enabler in the onboarding process for financial services.",
+            "Growing adoption and understanding of e-KYC solutions in the financial sector call for enhancements to existing requirements to ensure e-KYC solutions continue to remain relevant, robust and reliable.",
+            "This document sets out the minimum requirements and standards that a financial institution, as defined in paragraph 5.2, must observe in implementing e-KYC for the on-boarding of individuals and legal persons."
+        ]
+    },
+    {
+        "old_section_no": "2",
+        "new_section_no": "2",
+        "section": "Applicability",
+        "difference": "Version 2 expands the applicability of the policy to include 'any other institution that may be specified by the Bank' and updates the date of the Agent Banking Policy Document.",
+        "impact": "The inclusion of 'any other institution that may be specified by the Bank' in version 2 broadens the scope of the policy, allowing the Bank greater flexibility in determining which institutions are subject to the policy. This could lead to increased regulatory oversight or compliance requirements for additional institutions. The update of the date for the Agent Banking Policy Document may also indicate a shift in regulatory framework or guidelines that could affect how agent banking is managed moving forward.",
+        "highlighted_phrases_from_version_1": [
+            "This policy document is applicable to all financial institutions as defined in paragraph 5.2.",
+            "This policy document shall not apply to agent banking channels governed under the policy document on Agent Banking dated 30 April 2015."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "This document is applicable to all financial institutions as defined in paragraph 5.2 and any other institution that may be specified by the Bank.",
+            "This policy document shall not apply to agent banking channels governed under the Agent Banking Policy Document dated 30 June 2022."
+        ]
+    },
+    {
+        "old_section_no": "3",
+        "new_section_no": "3",
+        "section": "Legal provisions",
+        "difference": "In version 2, the phrase '2001 Act' is replaced with 'Act 2001' in the reference to the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act.",
+        "impact": "This change may affect the clarity and consistency of legal references within the document. While it does not alter the legal meaning, it could lead to confusion among stakeholders who are accustomed to the original phrasing. Consistency in legal terminology is crucial for compliance and understanding.",
+        "highlighted_phrases_from_version_1": [
+            "Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities 2001 Act (AMLA)"
+        ],
+        "highlighted_phrases_from_version_2": [
+            "Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (AMLA)"
+        ]
+    },
+    {
+        "old_section_no": "4",
+        "new_section_no": "4",
+        "section": "Effective date",
+        "difference": "The effective date of the policy document has changed from 30 June 2020 in version 1 to 15 April 2024 in version 2.",
+        "impact": "This change in the effective date may delay the implementation of the policy, potentially affecting stakeholders who rely on the policy for compliance and operational guidance. It may also necessitate a review of any related procedures or regulations that were based on the original effective date.",
+        "highlighted_phrases_from_version_1": [
+            "This policy document comes into effect on 30 June 2020."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "This Policy Document comes into effect on 15 April 2024."
+        ]
+    },
+    {
+        "old_section_no": "5",
+        "new_section_no": "5",
+        "section": "Interpretation",
+        "difference": "Version 2 introduces new definitions and clarifications for terms such as 'authorised person', 'beneficial owner', and 'electronic Know-Your-Customer (e-KYC)', which are not present in Version 1. Additionally, the definition of 'customer' is expanded in Version 2 to include more specific roles and relationships.",
+        "impact": "The inclusion of new definitions and clarifications in Version 2 enhances the comprehensiveness of the policy, providing clearer guidance for stakeholders regarding compliance and operational procedures. This could lead to improved understanding and adherence to regulatory requirements, particularly in the context of anti-money laundering and customer due diligence. However, it may also increase the complexity of compliance for financial institutions as they adapt to the expanded definitions and requirements.",
+        "highlighted_phrases_from_version_1": [
+            "The terms and expressions in this policy document shall have the same meaning assigned to them in the FSA, IFSA, DFIA, AMLA and MSBA unless otherwise stated.",
+            "\u201cbiometric\u201d refers to a unique physical feature of a person based on a certain aspect of the person\u2019s biology. These include facial features, fingerprints or retinal patterns.",
+            "\u201cBoard\u201d in relation to a company, refers to-",
+            "\u201ccustomer\u201d refers to both account holder and non-account holder. The term also refers to a client.",
+            "For the life insurance and family takaful sector, \u201ccustomer\u201d refers to parties."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "5.1 The terms and expressions in this Policy Document shall have the same meaning assigned to them in the FSA, IFSA, DFIA, AMLA and MSBA unless otherwise stated.",
+            "\u201cauthorised person\u201d in the context of a business relationship with a financial institution, refers to a natural person appointed in writing by a legal person to operate and maintain an account with a financial institution including to open, close and give any instruction for the conduct of financial transactions in the account on behalf of the legal person.",
+            "\u201cbeneficial owner\u201d in the context of a legal person, refers to the natural person(s) who ultimately owns or controls a customer and/or the natural person on whose behalf a transaction is being conducted.",
+            "\u201ccustomer\u201d refers to both account holder and non-account holder. The term also refers to a client.",
+            "For the life insurance and family takaful sector, \u201ccustomer\u201d refers to parties related to an insurance/takaful contract including potential parties such as the proposer/policyholder/policy owner, payor, assignee and company representative, but does not include insurance agent."
+        ]
+    },
+    {
+        "old_section_no": "6",
+        "new_section_no": "6",
+        "section": "Related legal instruments and policy documents",
+        "difference": "Version 2 includes additional terms such as 'circulars' and 'supplementary documents' and updates the titles and dates of several referenced documents, while also introducing a new section (6.2) regarding e-KYC requirements.",
+        "impact": "The inclusion of 'circulars' and 'supplementary documents' broadens the scope of documents that must be considered alongside the policy, potentially increasing compliance obligations for financial institutions. The updated titles and dates reflect more current regulatory requirements, which may necessitate adjustments in operational practices. The introduction of section 6.2 clarifies the hierarchy of compliance requirements, which could lead to stricter adherence to the most stringent policies, impacting how institutions manage their compliance frameworks.",
+        "highlighted_phrases_from_version_1": [
+            "guidelines issued by the Bank, in particular (i) Anti-Money Laundering, Counter Financing of Terrorism and Targeted Financial Sanctions for Financial Institutions (AML/CFT and TFS for FIs) dated 1 January 2020;",
+            "Risk Management in Technology (RMiT) dated 19 June 2020;",
+            "Outsourcing dated 23 October 2019;",
+            "Management of Customer Information and Permitted Disclosures dated 17 October 2017;",
+            "Introduction of New Products dated 7 March 2014;",
+            "Introduction of New Products by Insurers and Takaful Operators dated 15 May 2015."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "guidelines, circulars, and supplementary documents issued by the Bank, in particular (i) Anti-Money Laundering, Countering Financing of Terrorism, Countering Proliferation Financing and Targeted Financial Sanctions for Financial Institutions (AML/CFT/CPF and TFS for FIs) policy document issued on 5 February 2024;",
+            "Risk Management in Technology (RMiT) dated 1 June 2023;",
+            "Outsourcing dated 23 October 2019;",
+            "Management of Customer Information and Permitted Disclosures dated 3 April 2023;",
+            "Introduction of New Products dated 7 March 2014;",
+            "Introduction of New Products by Insurers and Takaful Operators dated 15 May 2015.",
+            "6.2 For avoidance of doubt, where a financial institution is subjected to more than one policy document relating to e-KYC or non-face-to-face (FTF) requirements, the more stringent requirement shall apply."
+        ]
+    },
+    {
+        "old_section_no": null,
+        "new_section_no": "7",
+        "section": "Policy documents superseded",
+        "difference": "",
+        "impact": "The statement indicates that the current policy document replaces the previous e-KYC policy, which suggests a significant update or change in the regulatory framework governing electronic customer verification processes. This could impact financial institutions and service providers who rely on the e-KYC policy for compliance, as they will need to adapt to the new guidelines. The supersession may also reflect advancements in technology, changes in regulatory requirements, or lessons learned from the implementation of the previous policy. Stakeholders will need to review the new document closely to ensure compliance and may face transitional challenges as they align their practices with the updated policy. Additionally, this change could influence future policy developments by setting a precedent for regular updates in response to evolving industry standards and technological advancements.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "This policy document supersedes the Electronic Know-Your-Customer (e-KYC) policy document issued on 30 June 2020."
+        ]
+    },
+    {
+        "old_section_no": "7",
+        "new_section_no": "8",
+        "section": "e-KYC implementation",
+        "difference": "Version 2 introduces additional responsibilities for the Board regarding the performance of the e-KYC solution, including specific triggers for escalation and a focus on both individuals and legal persons, whereas Version 1 does not include these aspects.",
+        "impact": "The changes in Version 2 enhance the accountability of the Board by requiring them to ensure satisfactory performance of the e-KYC solution and to address potential concerns proactively. This could lead to improved oversight and risk management, but may also increase the burden on the Board to monitor and respond to performance issues. Additionally, the inclusion of legal persons broadens the scope of the policy, potentially impacting compliance requirements for financial institutions.",
+        "highlighted_phrases_from_version_1": [
+            "A financial institution shall obtain Board approval on the overall risk appetite and internal framework governing the implementation of e-KYC.",
+            "The framework shall address (i) high risk or material risk scenarios that require subsequent Board approval; (ii) variations or exceptions to existing e-KYC related products or methods that require subsequent Board approval; and (iii) other instances that require Board approval.",
+            "The Board shall set and ensure the effective implementation of appropriate policies and procedures to address any risks associated with the implementation of e-KYC."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "A financial institution shall obtain Board approval on the overall risk appetite and internal framework governing the implementation of e-KYC for both individuals and legal persons.",
+            "The framework shall address i. high risk or material risk scenarios that require subsequent Board approval; ii. variations or exceptions to existing e-KYC related products or methods that require subsequent Board approval; iii. internal processes, mitigating controls and triggers for escalation to the Board where there may be potential concern on the effectiveness of the e-KYC solution performance and related processes.",
+            "The Board of financial institutions shall be responsible for ensuring satisfactory measures are undertaken by the financial institution such that an appropriate level of performance of the e-KYC solution is maintained at all times."
+        ]
+    },
+    {
+        "old_section_no": "8",
+        "new_section_no": "9",
+        "section": "Reporting requirements",
+        "difference": "The section numbers have been incremented from 8.x in version 1 to 9.x in version 2, and the submission method has changed from a general reference to 'instructions set out in Appendix 5' to a specific platform 'STATsmart Integrated Submission Platform (ISP) accessible via Kijang.Net' in version 2.",
+        "impact": "The change in section numbering indicates a potential restructuring of the document, which may affect cross-references within the policy. The specification of the submission platform in version 2 provides clearer guidance for financial institutions on how to submit records, potentially improving compliance and efficiency. However, it may also require institutions to adapt to a new system, which could involve additional training or resources.",
+        "highlighted_phrases_from_version_1": [
+            "8.1 In monitoring the effectiveness and accuracy of e-KYC solutions utilising artificial intelligence, machine learning or other forms of predictive algorithms, a financial institution shall maintain a record of the performance of the e-KYC solution segregated on a monthly basis.",
+            "8.2 The records required to be maintained under this policy document shall be made readily available for review by the Bank.",
+            "8.3 A financial institution shall submit the record in relation to paragraph 8.1 in accordance with instructions set out in Appendix 5 via the IntegratedA financial institution shall submit the record in relation to paragraph 8.1 on a half-yearly basis according to the following arrangement (i) for the period of January to June of each year, the record shall be submitted no later than 4 August of the same year; and (ii) for the period of July to December of each year, the record shall be submitted no later than 4 February of the following year. In respect of paragraph 8.4, in the event that the deadline falls on a non-working day, the deadline will be extended to the next immediate working day, unless specifically informed by the Bank in writing on the revised deadline."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "9.1 In monitoring the effectiveness and accuracy of e-KYC solutions utilising artificial intelligence, machine learning or other forms of predictive algorithms, a financial institution shall maintain a record of the performance of the e-KYC solution segregated on a monthly basis.",
+            "9.2 The records required to be maintained under this policy document shall be made readily available for review by the Bank.",
+            "9.3 A financial institution shall submit the record in relation to paragraph 9.1 via the STATsmart Integrated Submission Platform (ISP) accessible via Kijang.Net (refer to Appendix 6 for details).",
+            "9.4 A financial institution shall submit the record in relation to paragraph 9.1 on a half-yearly basis according to the following arrangement (i) For the period of January to June of each year, the record shall be submitted no later than 4 August of the same year; and (ii) For the period of July to December each year, the record shall be submitted no later than 4 February the following year.",
+            "9.5 In respect of paragraph 9.4, in the event that the deadline falls on a non-working day, the deadline will be extended to the next immediate working day, unless specifically informed by the Bank in writing on the revised deadline."
+        ]
+    },
+    {
+        "old_section_no": "9",
+        "new_section_no": "10",
+        "section": "Notification for licensed persons and prescribed development financial institutions",
+        "difference": "Version 2 introduces the requirement for a complete list of information to demonstrate that the technology provider complies with additional requirements, which was not present in Version 1.",
+        "impact": "This change increases the compliance burden on licensed persons and prescribed development financial institutions by requiring them to not only submit their own information but also to ensure that their technology providers meet specific compliance standards. This could lead to delays in implementation if the technology provider does not meet the requirements, potentially affecting the timeline for adopting e-KYC solutions.",
+        "highlighted_phrases_from_version_1": [
+            "a complete list of information as set out in Appendix 4 shall be submitted to the Bank.",
+            "the submission of information to the Bank shall be made to Jabatan Penyeliaan Konglomerat Kewangan, Jabatan Penyeliaan Perbankan or Jabatan Penyeliaan Insurans dan Takaful, as the case may be and shall be signed off by the Chief Executive Officer, Chief Risk Officer or Chief Operating Officer who has the responsibility to ensure that the information submitted pursuant to this paragraph is complete and accurate.",
+            "where a licensed person or a prescribed development financial institution intends to implement the e-KYC solution for the first time and the product to be offered qualifies as a new product as defined under the Introduction of New Products policy document, the information required under the aforementioned policy document and this policy document may be submitted together to the Bank.",
+            "shall ensure compliance to the Bank\u2019s RMiT and Outsourcing policy documents."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "a complete list of information as set out in Appendix 5 shall be submitted to the Bank. This shall also include a complete list of information to demonstrate that the technology provider complies with requirements set out in paragraph 8.22 and Appendix 3 of this policy document.",
+            "the submission of information to the Bank shall be made to Jabatan Penyeliaan Konglomerat Kewangan, Jabatan Penyeliaan Perbankan or Jabatan Penyeliaan Insurans dan Takaful, as the case may be and shall be signed off by the Chief Executive Officer, Chief Risk Officer or Chief Operating Officer who has the responsibility to ensure that the information submitted pursuant to this paragraph is complete and accurate.",
+            "where a licensed person or a prescribed development financial institution intends to implement the e-KYC solution for the first time and the product to be offered qualifies as a new product as defined under the Introduction of New Products policy document, the information required under the aforementioned policy document and this policy document may be submitted together to the Bank.",
+            "shall ensure, where relevant, approvals such as those in relation to the Bank\u2019s RMiT and Outsourcing policy documents are obtained."
+        ]
+    },
+    {
+        "old_section_no": "10",
+        "new_section_no": null,
+        "section": "Approval for licensed money-changing operators, licensed remittance service providers, approved non-bank issuers of designated payment instruments and approved non-bank issuers of designated Islamic payment instruments",
+        "difference": "",
+        "impact": "This section establishes a clear framework for compliance with Anti-Money Laundering (AML), Counter Financing of Terrorism (CFT), and Targeted Financial Sanctions (TFS) for various financial institutions (FIs) and service providers. By mandating that applications for approval include a comprehensive list of information, it aims to enhance transparency and accountability within the financial sector. The requirement for detailed information may lead to improved risk assessment and monitoring of financial activities, thereby potentially reducing illicit financial flows. However, this could also impose additional administrative burdens on smaller operators who may struggle to meet the compliance requirements, potentially leading to market consolidation as smaller entities exit the market. Furthermore, the emphasis on compliance may foster a culture of diligence among FIs, but it could also inadvertently create barriers to entry for new players in the financial services sector. Overall, the section seeks to strengthen the integrity of the financial system while balancing the need for accessibility and competition.",
+        "highlighted_phrases_from_version_1": [
+            "Subject to paragraphs 7.1 and 7.2",
+            "as required under the policy document on AML/CFT and TFS for FIs",
+            "licensed money-changing operators",
+            "licensed remittance service providers",
+            "approved non-bank issuers of designated payment instruments",
+            "approved non-bank issuers of designated Islamic payment instruments",
+            "an application for approval shall include a complete list of information as set out in Appendix 4"
+        ],
+        "highlighted_phrases_from_version_2": []
+    },
+    {
+        "old_section_no": null,
+        "new_section_no": "11",
+        "section": "Approval for licensed money services businesses",
+        "difference": "",
+        "impact": "The section establishes a regulatory framework that mandates licensed money-changing operators, remittance service providers, and non-bank issuers to seek prior approval for implementing electronic Know Your Customer (e-KYC) solutions or changing technology providers. This requirement aims to enhance compliance with Anti-Money Laundering (AML), Counter Financing of Terrorism (CFT), and Counter Proliferation Financing (CPF) regulations, thereby increasing the integrity and security of financial transactions. Stakeholders, including financial institutions and technology providers, will need to ensure their systems meet the specified compliance criteria, potentially leading to increased operational costs and longer implementation timelines. The requirement for detailed applications may also create a barrier to entry for smaller firms, impacting competition in the market. Additionally, the emphasis on compliance may lead to improved consumer trust in financial services, but could also result in unintended delays in the adoption of innovative technologies due to bureaucratic processes.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "Subject to paragraphs 8.1 to 8.3 and as required under the AML/CFT/CPF and TFS for FIs policy document",
+            "shall obtain a written approval from Jabatan Pemantauan Perkhidmatan Pembayaran prior to implementing e-KYC or changing the appointed technology provider",
+            "application for approval shall include a complete list of information as set out in Appendix 5",
+            "a complete list of information to demonstrate that the technology provider complies with requirements set out in paragraph 8.22 and Appendix 3 of this policy document"
+        ]
+    },
+    {
+        "old_section_no": "11",
+        "new_section_no": "12",
+        "section": "Enforcement",
+        "difference": "Version 2 includes a section number (12.1) at the beginning of the excerpt, while Version 1 does not.",
+        "impact": "The addition of a section number in Version 2 may enhance the document's organization and referenceability, making it easier for stakeholders to locate and cite this specific provision. However, it does not change the substantive content or implications of the enforcement actions described.",
+        "highlighted_phrases_from_version_1": [
+            "Where the Bank deems that the requirements in this document have not been complied with, the Bank may take appropriate enforcement action against the financial institution, including the directors, officers and employees, with any provision marked as \u201cS\u201d in this document or direct a financial institution to (i) undertake corrective action to address any identified shortcomings; and/or (ii) suspend or discontinue implementation of e-KYC."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "12.1 Where the Bank deems that the requirements in this document have not been complied with, the Bank may take appropriate enforcement action against the financial institution, including the directors, officers and employees with any provision marked as \u201cS\u201d in this document or direct a financial institution to (i) undertake corrective action to address any identified shortcomings; and/or (ii) suspend or discontinue implementation of e-KYC."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 1",
+        "new_section_no": "Appendix 2",
+        "section": "False Acceptance Rate",
+        "difference": "Version 2 introduces a risk-based sampling approach for determining the appropriate sample size for FAR calculations, which is not present in Version 1. Additionally, Version 2 includes specific sampling dimensions and a tiered approach for FAR threshold monitoring.",
+        "impact": "The introduction of a risk-based sampling approach in Version 2 allows financial institutions to tailor their audit processes based on the risk profile of different customer segments, potentially leading to more effective identification of non-genuine cases. The tiered approach for FAR threshold monitoring enhances the responsiveness of financial institutions to FAR breaches, promoting proactive measures to mitigate risks. This could lead to improved compliance and reduced fraud, but may also require additional resources for implementation and monitoring.",
+        "highlighted_phrases_from_version_1": [
+            "a financial institution may adopt a sampling approach.",
+            "a financial institution shall ensure that the data used to determine FAR is random, unbiased and representative of the customer base.",
+            "A financial institution shall aim to ensure that the overall FAR for the e-KYC solution does not exceed 5%."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "a financial institution may adopt a risk-based sampling approach in determining the appropriate sample size for each module of the e-KYC solution and ensure that the sample size data used to determine FAR is random, unbiased and representative of the entire population of customers.",
+            "the sample size shall minimally meet a 95% confidence level and 3% margin of error or 400 cases per month, whichever is higher.",
+            "a financial institution is highly encouraged to strive to ensure that the overall FAR of the e-KYC solution is as low and close to zero as possible."
+        ]
+    },
+    {
+        "old_section_no": null,
+        "new_section_no": "Appendix 1",
+        "section": "Examples of verification methods to establish business legitimacy",
+        "difference": "",
+        "impact": "The section outlines a framework for financial institutions to enhance their e-KYC (electronic Know Your Customer) processes specifically for legal persons. By encouraging the use of various verification methods tailored to the business model of the legal person, the policy aims to strengthen the integrity of financial transactions and reduce the risk of money laundering, terrorist financing, and proliferation financing (ML/TF/PF). The emphasis on video calls, location verification, and cross-referencing with credible databases is intended to provide a multi-faceted approach to confirming the legitimacy of businesses. This could lead to increased trust in the financial system, but may also impose additional compliance burdens on financial institutions, particularly smaller ones. Furthermore, the potential for unannounced video calls could raise privacy concerns among business owners. Overall, the section seeks to balance the need for robust verification with the operational realities faced by financial institutions, potentially influencing future regulatory practices and compliance standards.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "may wish to consider undertaking at least one or more verification methods that is relevant to the nature or business model of the legal person.",
+            "provide heightened assurance on the legitimacy of the legal person\u2019s business.",
+            "make video calls to the CEO, directors, or authorised person assigned to the legal person.",
+            "request the person to show proof of business existence such as signboard or inventories.",
+            "unannounced video calls depending on the ML/TF/PF risk identified on a particular customer.",
+            "identify and verify the location of legal person to ensure that the location matches the registered or business address.",
+            "verify the legal person\u2019s information against a database maintained by credible independent sources.",
+            "request for the legal person\u2019s active bank account statement or audited financial statement as proof of on-going business activity."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 2",
+        "new_section_no": "Appendix 4",
+        "section": "e-KYC safeguards to be adopted by financial institutions offering higher risk financial products",
+        "difference": "Version 2 introduces additional sections and requirements related to e-KYC for individuals without credit transfer, which are not present in Version 1.",
+        "impact": "The changes in Version 2 significantly expand the scope of e-KYC requirements, particularly for individuals without existing bank accounts. This could lead to increased compliance burdens for financial institutions, as they must implement additional verification measures and safeguards. It also introduces a more nuanced risk assessment framework, which may enhance customer protection but could complicate the onboarding process for certain customers. Stakeholders may need to adjust their operational procedures and systems to accommodate these new requirements.",
+        "highlighted_phrases_from_version_1": [
+            "A financial institution offering the financial products in paragraph 1 of this Appendix through e-KYC for the purpose of customer identification and verification shall at minimum-",
+            "ensure that the customer is a live subject and not an impersonator (e.g. use of photos, videos, facial masks) by utilising liveness detection;",
+            "undertake measures to demonstrate that the customer has an existing bank account with another licensed person and is able to access said bank account."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "_e-KYC for individuals without credit transfer for higher risk products_",
+            "In addition to requirements under paragraph 3 of this Appendix, a financial institution may also consider additional verification measures listed in paragraph 10 of this Appendix for higher levels of assurance, where deemed appropriate based on its own risk assessment.",
+            "The requirement in paragraph 2 (iv) of this Appendix does not apply where an individual customer does not have any existing bank account with another licensed person and thus is unable to perform the credit transfer step."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 3",
+        "new_section_no": null,
+        "section": "Reporting template",
+        "difference": "",
+        "impact": "This section establishes a comprehensive framework for the collection and reporting of performance data related to e-KYC (electronic Know Your Customer) identification and verification processes conducted by financial institutions. By mandating the recording of various metrics such as True Positives, True Negatives, False Positives, and False Negatives, the policy aims to enhance the accountability and transparency of e-KYC operations. This data-driven approach is likely to improve the effectiveness of identity verification processes, reduce fraud, and increase consumer trust in financial institutions. Furthermore, the emphasis on performance metrics may lead to better compliance with regulatory standards and foster a culture of continuous improvement within the industry. However, there may be unintended consequences, such as increased administrative burdens on financial institutions and potential privacy concerns regarding the handling of sensitive personal data. Overall, the section is poised to significantly influence the operational practices of financial institutions and their interactions with regulatory bodies.",
+        "highlighted_phrases_from_version_1": [
+            "The performance data below shall be recorded when reporting e-KYC identification and verification cases performed by a financial institution",
+            "Total identification and verification cases performed",
+            "Total identification and verification cases that were accepted by solution",
+            "Total sample size of identification and verification cases audited",
+            "True Positive (no. of cases)",
+            "True Negative (no. of cases)",
+            "False Positive (no. of cases)",
+            "False Negative (no. of cases)",
+            "False Acceptance Rate (%)",
+            "False Rejection Rate (%)",
+            "A robust e-KYC solution may consist of a series of e-KYC checks",
+            "Other relevant metrics to be reported Average time taken for completion of e-KYC process."
+        ],
+        "highlighted_phrases_from_version_2": []
+    },
+    {
+        "old_section_no": null,
+        "new_section_no": "Appendix 3",
+        "section": "Minimum scope and criteria for external independent assessment",
+        "difference": "",
+        "impact": "The section outlines a comprehensive framework for assessing the effectiveness of e-KYC solutions in combating money laundering, terrorist financing, and fraud risks. By mandating independent assessments that focus on specific modules such as ID verification, facial recognition, and liveness detection, the policy aims to enhance the security and reliability of non-face-to-face customer onboarding processes. This could lead to improved compliance with AML/CFT regulations, fostering greater trust among stakeholders, including financial institutions, regulators, and customers. However, the rigorous testing requirements may impose additional operational burdens on financial institutions, particularly smaller entities that may lack the resources to implement such extensive assessments. Furthermore, the emphasis on emerging fraud techniques and the need for continuous adaptation to technological advancements could drive innovation in the sector, but may also lead to challenges in keeping pace with rapidly evolving threats. Overall, while the intent is to strengthen compliance and security, the implementation may require careful consideration of the capacity and capabilities of reporting institutions.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "ensure the systems and technology deployed for the purpose of establishing a business relationship using non-face-to-face channels (including e-KYC) have the capabilities to support an effective AML/CFT/CPF compliance programme",
+            "identify the overall effectiveness and robustness of the e-KYC solution in detecting and mitigating ML/TF/PF and fraud risks",
+            "The assessment shall cover the three (3) modules of an e-KYC solution, namely facial recognition, liveness detection (presentation attack detection) and Identity Document (ID) verification",
+            "conducted on a risk-based approach and shall ensure areas of higher risk are given an appropriate level of focus and intensity",
+            "The tests shall be conducted in a comprehensive and effective manner, in line with emerging fraud techniques",
+            "coverage of the test scenarios must reflect the latest identity impersonation and cyber-attack techniques",
+            "The outcome of the assessment shall be adequately and clearly documented and shall be submitted to the TPs and subsequently submitted to the relevant financial institutions"
+        ]
+    },
+    {
+        "old_section_no": "Appendix 4",
+        "new_section_no": "Appendix 5",
+        "section": "Information required for submission",
+        "difference": "Version 2 includes additional details regarding the assessment of the e-KYC solution, specifically mentioning FAR results from negative testing and a complete list of information required from technology providers, which are not present in Version 1.",
+        "impact": "The changes in Version 2 enhance the rigor of the assessment process for the e-KYC solution by incorporating specific testing results and compliance requirements for technology providers. This could lead to improved security and effectiveness of the e-KYC solution, as it emphasizes the importance of thorough testing and validation of technology providers, potentially reducing risks associated with fraud and compliance failures.",
+        "highlighted_phrases_from_version_1": [
+            "the written assessment may consider technology functions, types of checks included and any other relevant information that may attest for the effectiveness of the e-KYC solution.",
+            "Where a financial institution chooses to engage a technology provider, this may include company background and track record in other jurisdictions or industries."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "the written assessment may consider accuracy of technology functions, types of checks included and any other relevant information that may attest for the effectiveness of the underlying technology.",
+            "Where relevant, the assessment should include FAR results gathered from conducting negative testing of fraudulent scenarios on the e-KYC solution.",
+            "the assessment to demonstrate effectiveness of the e-KYC solution shall include a complete list of information to demonstrate that the technology provider complies with requirements set out in paragraph 8.22 and Appendix 3 of this policy document."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 5",
+        "new_section_no": "Appendix 6",
+        "section": "Submission instructions",
+        "difference": "The submission platform URL and guidance references have changed, and the contact information format has been updated.",
+        "impact": "The change in the submission platform URL from 'https://statsmart.bnm.gov.my/statsmart/' to 'https://kijangnet.bnm.gov.my' may affect users who are accustomed to the previous platform. Additionally, the inclusion of a user manual link and the restructuring of contact information could enhance clarity and accessibility for users, but may also require users to adapt to new procedures.",
+        "highlighted_phrases_from_version_1": [
+            "The completed e-KYC reporting template (Appendix 3) shall be submitted to the Bank via the Integrated Submission Platform (ISP) at https://statsmart.bnm.gov.my/statsmart/ in accordance with the guidance provided in parts B, C and D of this Appendix.",
+            "Enquiries on reporting-related matters through telephone and emails shall be directed to respective officers at the general line 03-26988044"
+        ],
+        "highlighted_phrases_from_version_2": [
+            "The completed e-KYC reporting template shall be submitted to the Bank via the [Integrated Submission Platform (ISP) on https://kijangnet.bnm.gov.my.](https://kijangnet.bnm.gov.my/)",
+            "Enquiries on reporting-related matters shall be addressed to Jabatan Pengurusan Data dan Statistik (JPS) via email or telephone as specified below: (i) Group Email address [: jps_ips@bnm.gov.my](mailto:jps_ips@bnm.gov.my) (ii) Telephone number : +603 26988044 (iii) Extension : 7225, 7999, 7819, 7799"
+        ]
+    }
+]

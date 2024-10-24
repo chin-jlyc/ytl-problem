@@ -1,0 +1,46 @@
+[
+    {
+        "document": "Incident Management Procedure",
+        "section": "Section 2: Regulatory Framework",
+        "old_policy_reference": "Not directly referenced",
+        "change": "Inclusion of recent regulatory amendments regarding eKYC",
+        "impact": "Require adjustments in incident reporting related to compliance breaches",
+        "reasoning": "The updates will enhance the document's compliance framework to recent regulations"
+    },
+    {
+        "document": "Data Management Procedure",
+        "section": "Section 3.3: Verification Techniques",
+        "old_policy_reference": "Not directly referenced",
+        "change": "Introduction of advanced verification technologies like AI and machine learning",
+        "impact": "Need to incorporate guidelines for handling data generated from AI technologies",
+        "reasoning": "Adaptation of data handling policies to ensure compliance with new verification procedures"
+    },
+    {
+        "document": "Data Management Procedure",
+        "section": "Section 5: Compliance Measures",
+        "old_policy_reference": "Not directly referenced",
+        "change": "Addition of a compliance checklist and updated responsibilities",
+        "impact": "Checklist will aid in ensuring compliance and clarity in documentation requirements",
+        "reasoning": "Ensuring data management procedures align with new compliance expectations for legal protection"
+    },
+    {
+        "document": "Change Management Procedure",
+        "section": "Section 6: Implementation Strategies",
+        "old_policy_reference": "Not directly referenced",
+        "change": "Addition of case studies for successful eKYC implementation",
+        "impact": "Introduction of case studies will help illustrate practical impacts of policy changes",
+        "reasoning": "Guiding future changes through understanding successful implementations"
+    },
+    {
+        "document": "Access Management Procedure",
+        "section": "Section 5: Compliance Measures",
+        "old_policy_reference": "Not directly referenced",
+        "change": "Updated compliance expectations in light of new regulations",
+        "impact": "Access management practices need to be reviewed to ensure compliance with new regulations",
+        "reasoning": "Protecting sensitive information requires access management controls to be revised for new compliance measures"
+    },
+    {
+        "section": "Summary",
+        "summary": "This section is an overview of the document and does not reflect a specific section change, but the whole document summary."
+    }
+]

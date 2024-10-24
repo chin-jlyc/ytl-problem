@@ -1,0 +1,77 @@
+[
+    {
+        "section": "Purpose and Applicability",
+        "impact": "The updated regulatory policy introduces significant changes that affect the Incident Management Procedure (IMP) as follows:\n\n1.1 Applicability to Legal Persons: The inclusion of legal persons in the e-KYC policy broadens the scope of incident management to encompass a wider range of customers. This necessitates a review of incident handling procedures to ensure they are applicable to legal entities, which may require additional training and resources.\n\n1.2 Regulatory Compliance: The statement that the IMP is not intended to override regulatory requirements may need to be revised to explicitly acknowledge the new regulatory obligations introduced by the updated policy. This could involve integrating specific compliance measures related to the expanded applicability of the e-KYC policy.\n\n1.3 Review Frequency: The annual review of the IMP may need to be adjusted to ensure it aligns with the frequency of regulatory updates, especially given the potential for more frequent changes in regulations affecting incident management.",
+        "recommended_actions": "The internal policy should be updated to explicitly include provisions for handling incidents related to legal persons, ensuring that all units are trained on the new requirements. Additionally, the IMP should incorporate a clause that mandates a review of the policy in conjunction with any updates to the e-KYC policy or other relevant regulations. This will ensure that the institution remains compliant and can effectively manage incidents involving a broader range of customers. Furthermore, it may be beneficial to establish a dedicated team or task force to oversee the implementation of these changes and provide ongoing training to staff on the new compliance requirements.",
+        "highlighted_phrases": [
+            "Incident Management Procedure (IMP)",
+            "legal persons",
+            "regulatory requirements",
+            "annual basis",
+            "significant changes"
+        ]
+    },
+    {
+        "section": "Related Policies and Procedures",
+        "impact": "The updated regulatory policy broadens the scope of documents that must be considered alongside the internal policy, specifically by including 'circulars' and 'supplementary documents.' This change increases compliance obligations for financial institutions. Additionally, the updated titles and dates reflect current regulatory requirements, necessitating adjustments in operational practices. The introduction of section 6.2 clarifies the hierarchy of compliance requirements, which may lead to stricter adherence to the most stringent policies, impacting how institutions manage their compliance frameworks. Furthermore, the supersession of the previous e-KYC policy indicates a significant update in the regulatory framework, requiring institutions to adapt their practices accordingly.",
+        "recommended_actions": "The internal policy section should be updated to explicitly include references to 'circulars' and 'supplementary documents' as part of the compliance framework. It is recommended to revise the list of related policies to ensure it reflects the most current titles and dates. Additionally, the organization should implement a process for regularly reviewing and updating the related policies to align with evolving regulatory requirements. Training sessions may be necessary to ensure that staff are aware of the new compliance obligations and understand the hierarchy of policies. Finally, a review of the operational practices should be conducted to ensure they are in line with the updated regulatory framework, particularly concerning the e-KYC processes.",
+        "highlighted_phrases": [
+            "broadens the scope of documents",
+            "increases compliance obligations",
+            "current regulatory requirements",
+            "hierarchy of compliance requirements",
+            "supersession of the previous e-KYC policy",
+            "adapt to the new guidelines"
+        ]
+    },
+    {
+        "section": "Glossary of Key Terms",
+        "impact": "The updated regulatory policy document introduces new definitions and clarifications that enhance the comprehensiveness of the glossary. Specifically, the inclusion of terms related to compliance, such as 'circulars' and 'supplementary documents', broadens the scope of key terms that financial institutions must understand and incorporate into their operations. This change necessitates an update to the internal glossary to include these new terms and ensure alignment with the regulatory requirements. Additionally, the clarification of compliance hierarchy in section 6.2 may require the institution to reassess how it categorizes and prioritizes its compliance obligations, impacting operational procedures.",
+        "recommended_actions": "The internal policy glossary should be updated to include new definitions introduced in the regulatory policy, particularly those related to compliance documents and the hierarchy of compliance requirements. This will ensure that all stakeholders have a clear understanding of the terms that are now relevant to their operations. Furthermore, training sessions should be conducted to familiarize staff with these new definitions and their implications for compliance practices. It is also advisable to implement a review process for the glossary to ensure it remains current with future regulatory updates.",
+        "highlighted_phrases": [
+            "new definitions and clarifications",
+            "broadens the scope of documents",
+            "increased compliance obligations",
+            "hierarchy of compliance requirements",
+            "stricter adherence to policies"
+        ]
+    },
+    {
+        "section": "Roles and Responsibilities",
+        "impact": "The updated regulatory policy introduces new compliance requirements that affect the roles and responsibilities outlined in the internal policy. Specifically, the following impacts are noted:\n\n1. **Incident Manager**: The Incident Manager may need to ensure that the incident management process aligns with the new reporting requirements, particularly regarding the submission of records and compliance with technology provider standards. This may require additional documentation and communication protocols.\n\n2. **Service Desk**: The Service Desk will need to adapt to the new compliance requirements by ensuring that incident logging includes specific information related to technology providers and their compliance status. This may necessitate additional training for staff.\n\n3. **Incident Response Team**: The Incident Response Team must be prepared to manage incidents that arise from compliance failures related to technology providers. This may involve developing new procedures for rapid response to compliance-related incidents.\n\n4. **Change Manager**: The Change Manager will need to incorporate the new regulatory requirements into the change management process, ensuring that all changes related to incident resolutions comply with the updated e-KYC and technology provider standards. This may require a review of existing change approval processes to ensure they meet the new compliance criteria.",
+        "recommended_actions": "To ensure compliance with the updated regulatory requirements, the internal policy section on Roles and Responsibilities should be revised to include specific references to the new compliance obligations. This includes:\n\n- Updating the responsibilities of the Incident Manager to include oversight of compliance with reporting requirements and technology provider standards.\n- Enhancing the Service Desk's role to ensure that incident logging captures compliance-related information.\n- Training the Incident Response Team on managing compliance-related incidents and developing rapid response protocols.\n- Revising the Change Manager's responsibilities to ensure that all changes comply with the new e-KYC requirements and technology provider standards. This may involve creating a checklist for compliance during the change approval process.\n\nAdditionally, consider implementing regular training sessions for all roles to ensure understanding and adherence to the new compliance requirements, thereby minimizing operational risks and enhancing overall compliance efficiency.",
+        "highlighted_phrases": [
+            "new compliance requirements",
+            "reporting requirements",
+            "technology provider standards",
+            "incident management process",
+            "incident logging",
+            "compliance-related incidents",
+            "change management process",
+            "e-KYC requirements"
+        ]
+    },
+    {
+        "section": "Incident Management Overview",
+        "impact": "The updated regulatory policy introduces new requirements for incident management that affect the current internal policy. Key changes include:\n\n1. **Incident Reporting Timelines (New Requirement)**: The updated regulation mandates that all incidents must be reported within 24 hours of detection. This necessitates a revision of the internal policy to include specific timelines for reporting incidents.\n\n2. **Incident Severity Classification (Revised Requirement)**: The regulatory document specifies a more detailed classification system for incident severity, which requires an update to the categorization matrix referenced in Section 6 of the internal policy.\n\n3. **Post-Incident Review (New Requirement)**: The regulation now requires a formal post-incident review process to be conducted within 48 hours of incident resolution, which is not currently addressed in the internal policy. This will require the addition of a new subsection outlining the review process and responsibilities.\n\n4. **Documentation and Record-Keeping (Enhanced Requirement)**: The updated policy emphasizes the need for comprehensive documentation of all incidents, including actions taken and lessons learned. This will necessitate enhancements to the existing documentation practices outlined in the internal policy.",
+        "recommended_actions": "To ensure compliance with the updated regulatory requirements, the internal policy should be revised as follows:\n\n1. **Incorporate Reporting Timelines**: Add a clause specifying that all incidents must be reported within 24 hours of detection, detailing the process for timely reporting.\n\n2. **Update Incident Categorization**: Revise Section 6 to align with the new incident severity classification system, ensuring that all staff are trained on the updated criteria.\n\n3. **Establish Post-Incident Review Process**: Introduce a new subsection that outlines the steps for conducting a post-incident review within 48 hours of resolution, including roles and responsibilities for team members involved.\n\n4. **Enhance Documentation Practices**: Implement a standardized template for incident documentation that captures all required details, ensuring that lessons learned are recorded and reviewed for future improvements. This may involve training staff on the new documentation requirements and processes.",
+        "highlighted_phrases": [
+            "report incidents within 24 hours",
+            "detailed classification system for incident severity",
+            "formal post-incident review process",
+            "comprehensive documentation of all incidents"
+        ]
+    },
+    {
+        "section": "Incident Categorisation and Assessment",
+        "impact": "The updated regulatory policy introduces new compliance requirements that affect the incident categorisation and assessment process. Specifically, the emphasis on e-KYC safeguards and independent assessments may necessitate a revision of the incident categories to include incidents related to compliance failures in e-KYC processes. Additionally, the requirement for technology providers to meet compliance standards could lead to incidents related to third-party service failures being categorized differently. This may require adjustments in the prioritization matrix to account for incidents that could arise from non-compliance with e-KYC regulations.",
+        "recommended_actions": "The internal policy should be updated to include specific categories for incidents related to e-KYC compliance failures and third-party technology provider issues. This could involve adding new categories such as 'e-KYC Compliance Failure' and 'Third-Party Service Disruption' with defined impacts, urgencies, and priorities. Furthermore, training sessions should be conducted for staff to ensure they understand the new categories and the importance of reporting incidents related to compliance. The incident response plan should also be reviewed to incorporate procedures for addressing incidents that arise from the new regulatory requirements, ensuring that response times are aligned with the updated prioritization matrix.",
+        "highlighted_phrases": [
+            "e-KYC safeguards",
+            "compliance failures",
+            "third-party service failures",
+            "incident categories",
+            "prioritization matrix"
+        ]
+    }
+]

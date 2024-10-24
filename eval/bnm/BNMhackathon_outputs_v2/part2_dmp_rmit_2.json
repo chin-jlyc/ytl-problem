@@ -1,0 +1,75 @@
+[
+    {
+        "section": "Purpose and Applicability",
+        "impact": "The updated regulatory policy introduces Appendix 10, which expands the guidelines and control measures for data governance and management. This change necessitates a review and potential update of the Data Management Procedure (DMP) to incorporate these new practices and standards. The complexity of compliance may increase, requiring additional resources for understanding and implementing the new appendix. Furthermore, the omission of the issuance date in the legal provision could create ambiguity regarding the applicability of the policy, which may affect compliance efforts.",
+        "recommended_actions": "The internal policy should be updated to explicitly reference the new guidelines and control measures introduced in Appendix 10. This includes revising the DMP to outline how these new practices will be integrated into existing data governance and management processes. Additionally, the policy should include a clear statement regarding the issuance date to eliminate ambiguity and ensure all stakeholders are referencing the correct version. Training sessions may be necessary to ensure that all units understand the implications of the new appendix and how to comply effectively. Regular updates and reviews should be scheduled to keep the DMP aligned with ongoing regulatory changes.",
+        "highlighted_phrases": [
+            "expansion of the guidelines or control measures",
+            "increased complexity of compliance",
+            "review and potential update of the DMP",
+            "ambiguity regarding the applicability",
+            "omission of the issuance date"
+        ]
+    },
+    {
+        "section": "Related Policies, Guidelines, Procedures, and Applicable Laws",
+        "impact": "The updated regulatory policy document introduces several changes that affect the internal policy section. Here are the key impacts:\n\n1. Issuance Dates (New Requirement): The updated policy mandates the inclusion of issuance dates for all referenced documents. This change enhances clarity and provides a timeline for the relevance and applicability of each document, which is crucial for compliance and enforcement.\n\n2. Governance Structure: The lack of proper formatting in the previous version may lead to confusion regarding the responsibilities outlined for the Board of Directors. The updated policy emphasizes the need for clear communication and understanding of governance responsibilities, which may require a revision of the internal policy to ensure proper formatting and clarity.\n\n3. Superseded Documents: The removal of older documents in the updated policy indicates a shift towards a more streamlined regulatory environment. This change necessitates a review of the internal policy to ensure that it reflects the most current regulatory requirements and does not rely on outdated guidance. Institutions must adapt to the new requirements and ensure compliance with the updated list of superseded documents.",
+        "recommended_actions": "To align with the updated regulatory policy, the internal policy section should be revised to include the following:\n\n- Incorporate issuance dates for all referenced policies and guidelines to enhance clarity and compliance.\n- Ensure proper formatting of the document to clearly outline the governance structure and responsibilities of the Board of Directors, thereby improving communication and understanding.\n- Review and update the list of applicable laws and guidelines to remove any superseded documents and include only the most current regulations. This will help prevent reliance on outdated guidance and ensure compliance with the latest regulatory requirements.\n\nAdditionally, training sessions may be necessary to inform relevant stakeholders about the changes and ensure that they understand the implications for compliance and governance.",
+        "highlighted_phrases": [
+            "inclusion of issuance dates",
+            "enhances clarity",
+            "governance structure",
+            "proper formatting",
+            "superseded documents",
+            "streamlined regulatory environment"
+        ]
+    },
+    {
+        "section": "Glossary of Key Terms",
+        "impact": "The updated regulatory policy introduces changes in terminology and definitions that may affect the internal understanding and application of key terms. Specifically, the change from 'prescribed development financial institution' to 'prescribed institution' broadens the scope of entities classified under this definition. This could necessitate a review and potential revision of the definitions provided in the glossary to ensure alignment with the new regulatory language. Additionally, the inclusion of issuance dates in Version 2 of the regulatory documents may require the internal policy to reference these dates for clarity and compliance purposes.",
+        "recommended_actions": "The glossary should be updated to reflect the new terminology, particularly the change to 'prescribed institution.' This may involve revising the definitions of 'Critical Data,' 'Critical System,' and other terms to ensure they are consistent with the updated regulatory language. Furthermore, it is recommended to include a section that outlines the importance of issuance dates for related legal instruments and policy documents, ensuring that all stakeholders are aware of the timelines and applicability of the regulations. Training sessions may also be necessary to educate staff on these changes and their implications for compliance and operational procedures.",
+        "highlighted_phrases": [
+            "prescribed institution",
+            "issuance dates",
+            "regulatory oversight",
+            "compliance requirements",
+            "data consistency and accuracy"
+        ]
+    },
+    {
+        "section": "Roles and Responsibilities",
+        "impact": "The updated regulatory policy introduces several changes that affect the roles and responsibilities outlined in the internal policy. Key impacts include:\n\n1. **Compliance Officer Responsibilities**: The updated regulation emphasizes the need for the Compliance Officer to not only ensure compliance but also to actively engage in ongoing training and awareness programs related to cybersecurity. This necessitates a revision of the Compliance Officer's responsibilities to include the development and implementation of such training initiatives.\n\n2. **Cybersecurity Role**: The removal of the annual requirement for cybersecurity awareness education in the regulatory document may lead to a gap in training frequency. The internal policy should address this by ensuring that the Cybersecurity role includes regular updates and training sessions to maintain staff preparedness against evolving threats.\n\n3. **Data Governance**: The regulatory changes highlight the importance of clear governance structures. The internal policy should ensure that roles are clearly defined and that there is a mechanism for regular review and updates to these roles to align with regulatory expectations.",
+        "recommended_actions": "To ensure compliance with the updated regulatory requirements, the internal policy should be revised as follows:\n\n- **Update Compliance Officer Responsibilities**: Include a mandate for the Compliance Officer to develop and implement ongoing cybersecurity training programs for all staff, ensuring that they are aware of current threats and best practices.\n- **Enhance Cybersecurity Role**: Modify the Cybersecurity role to include responsibilities for conducting regular training sessions and updates on cybersecurity practices, rather than relying solely on annual training.\n- **Clarify Data Governance**: Establish a clear governance framework that outlines the roles and responsibilities of each position, ensuring that there is a process for regular review and updates to these roles in response to regulatory changes. This will help maintain clarity and compliance across the organization.",
+        "highlighted_phrases": [
+            "Compliance Officer responsibilities",
+            "Ongoing training and awareness programs",
+            "Cybersecurity role updates",
+            "Clear governance structures",
+            "Regular review and updates"
+        ]
+    },
+    {
+        "section": "Data Management Overview",
+        "impact": "The updated regulatory policy introduces several changes that affect the internal policy on data management. Key impacts include: \n\n1. **Data Governance**: The new regulation emphasizes enhanced data governance practices, requiring more stringent documentation of data usage policies, access controls, and compliance requirements. This necessitates a review and potential expansion of the existing data governance framework outlined in the internal policy. \n\n2. **Data Quality**: The updated policy places a stronger focus on data quality metrics, including accuracy, completeness, consistency, timeliness, relevance, and validity. The internal policy must be revised to explicitly incorporate these metrics and establish procedures for regular data quality assessments. \n\n3. **Cybersecurity Management**: The shift towards a broader Cyber Risk Framework necessitates that the data management policies align with cybersecurity protocols, ensuring that data management practices support the institution's overall cybersecurity strategy. This may require additional training and resources for staff involved in data management. \n\n4. **Storage and Transportation of Sensitive Data**: The change from 'must' to 'should' in the regulatory requirements for handling sensitive data may lead to a more lenient approach in the internal policy. This could increase the risk of non-compliance and mishandling of sensitive data, necessitating a review of the internal policy to ensure it maintains a strong stance on data protection.",
+        "recommended_actions": "To ensure compliance with the updated regulatory requirements, the internal policy on Data Management Overview should be revised to include: \n\n1. A detailed section on enhanced data governance practices, including specific roles and responsibilities for data stewardship and compliance oversight. \n2. Explicit definitions and procedures for assessing data quality metrics, including regular audits and reporting mechanisms to ensure data integrity. \n3. Integration of cybersecurity considerations into data management practices, ensuring that data governance aligns with the institution's Cyber Risk Framework. \n4. A clear stance on the handling of sensitive data, reinforcing the importance of compliance despite the regulatory shift from 'must' to 'should'. This may involve establishing mandatory training for staff on data protection protocols. \n\nBy implementing these changes, the institution can strengthen its data management practices, enhance compliance with regulatory requirements, and mitigate potential risks associated with data handling.",
+        "highlighted_phrases": [
+            "enhanced data governance practices",
+            "data quality metrics",
+            "Cyber Risk Framework",
+            "handling of sensitive data",
+            "mandatory training for staff"
+        ]
+    },
+    {
+        "section": "Data Lifecycle Management",
+        "impact": "The updated regulatory policy introduces several changes that affect the Data Lifecycle Management (DLM) section of the internal policy. Key impacts include:\n\n1. **Governance and Compliance**: The emphasis on proper governance and compliance in the updated policy necessitates a more structured approach to DLM. The internal policy must ensure that all stages of the data lifecycle are clearly defined and aligned with the new governance requirements.\n\n2. **Cybersecurity Management**: The shift towards a broader Cyber Risk Framework requires the DLM policy to incorporate cybersecurity considerations at every stage of the data lifecycle. This means that data handling practices must now include risk assessments and mitigation strategies related to cyber threats.\n\n3. **Storage and Transportation of Sensitive Data**: The change from 'must' to 'should' in the regulatory requirements for handling sensitive data may lead to a more lenient approach in the internal policy. This could increase the risk of mishandling sensitive data, necessitating a review of the language used in the DLM policy to ensure it reflects a commitment to robust data handling practices.\n\n4. **Cloud Services**: As institutions transition to cloud services, the DLM policy must address the specific risks and control measures associated with cloud storage and data management. This includes ensuring that data lifecycle practices are compatible with cloud governance and security measures outlined in the updated regulations.",
+        "recommended_actions": "To ensure compliance with the updated regulatory requirements, the Data Lifecycle Management section should be revised to include:\n\n- A clear definition of governance roles and responsibilities related to data management, ensuring alignment with the Board of Directors' oversight.\n- Integration of cybersecurity risk assessments into each stage of the data lifecycle, emphasizing the importance of protecting data against cyber threats.\n- A review of the language regarding the handling of sensitive data, potentially reinstating mandatory language to ensure compliance and reduce risks associated with data transportation.\n- Specific guidelines for managing data in cloud environments, including risk assessments and control measures that align with the new Cyber Risk Framework. This will help standardize practices across the institution and ensure that data management strategies are resilient and compliant with regulatory expectations.",
+        "highlighted_phrases": [
+            "proper governance and compliance",
+            "Cyber Risk Framework",
+            "risk assessments and mitigation strategies",
+            "handling sensitive data",
+            "cloud services and data management"
+        ]
+    }
+]

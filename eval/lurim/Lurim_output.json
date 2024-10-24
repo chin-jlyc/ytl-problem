@@ -1,0 +1,289 @@
+{
+  "eKYC": {
+    "results": {
+      "part 1": [
+        {
+          "Num": 1,
+          "Affected Section/Paragraph": "Sections 1, 2, 3, 4, 5, 6, 7",
+          "Summary of Impact": "The updated policy document has expanded the scope to cover e-KYC implementation for both individuals and legal persons. The policy requirements have been enhanced to provide more detailed guidance on e-KYC solutions, including requirements on the use of artificial intelligence, machine learning or other forms of predictive algorithms, reliance on human representatives, and additional safeguards for higher risk financial products."
+        },
+        {
+          "Num": 2,
+          "Affected Section/Paragraph": "Section 8.22, Appendix 3",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to ensure the technology provider appointed to provide the e-KYC solution conducts an external independent assessment on the e-KYC solution in accordance with the minimum scope and criteria specified. This is to identify the overall effectiveness and robustness of the e-KYC solution in detecting and mitigating ML/TF/PF and fraud risks."
+        },
+        {
+          "Num": 3,
+          "Affected Section/Paragraph": "Section 8.23, 8.24, 8.25",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to perform due diligence on the identified technology provider and the e-KYC solution prior to implementation, and to conduct an independent assessment on the financial institution's own processes, procedures and controls prior to first-time implementation of an e-KYC solution. These requirements aim to ensure the overall effectiveness of e-KYC implementation."
+        },
+        {
+          "Num": 4,
+          "Affected Section/Paragraph": "Appendix 2",
+          "Summary of Impact": "More detailed requirements have been introduced on the measurement and assessment of False Acceptance Rate (FAR), including the adoption of a tiered approach for FAR threshold monitoring, review and notification to the Bank. This aims to strengthen the monitoring and management of e-KYC solution performance."
+        },
+        {
+          "Num": 5,
+          "Affected Section/Paragraph": "Appendix 4",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to implement additional safeguards when offering higher risk financial products through e-KYC, such as current accounts, savings accounts and unrestricted investment accounts. This includes measures like requiring credit transfers from existing bank accounts and implementing ringfencing parameters to mitigate risks."
+        }
+      ],
+      "part 2": {
+        "Access": [
+          {
+            "Num": 1,
+            "Affected Section/Paragraph": "4.1, 4.4",
+            "Summary of Impact": "The new policy (section 3.1) introduces several new criteria and adjustments compared to the current policy document (section 4.1). The updated policy now requires a review of past legal issues or lawsuits, adding an extra layer of diligence which will necessitate additional legal checks and documentation. The company now has the option to decide whether to implement a training and awareness program or not."
+          },
+          {
+            "Num": 2,
+            "Affected Section/Paragraph": "5.2, 5.3",
+            "Summary of Impact": "The new policy requirements in sections 8.22, Appendix 3 mandate that financial institutions ensure the technology provider appointed to provide the e-KYC solution conducts an external independent assessment on the e-KYC solution. This is to identify the overall effectiveness and robustness of the e-KYC solution in detecting and mitigating ML/TF/PF and fraud risks, which will require additional due diligence and assessment processes."
+          },
+          {
+            "Num": 3,
+            "Affected Section/Paragraph": "7.1, 7.2",
+            "Summary of Impact": "The new requirements in sections 8.23, 8.24, 8.25 require financial institutions to perform due diligence on the identified technology provider and the e-KYC solution prior to implementation, and to conduct an independent assessment on the financial institution's own processes, procedures and controls prior to first-time implementation of an e-KYC solution. These additional requirements aim to ensure the overall effectiveness of e-KYC implementation."
+          },
+          {
+            "Num": 4,
+            "Affected Section/Paragraph": "6.1",
+            "Summary of Impact": "The more detailed requirements introduced in Appendix 2 on the measurement and assessment of False Acceptance Rate (FAR), including the adoption of a tiered approach for FAR threshold monitoring, review and notification to the Bank, will strengthen the monitoring and management of e-KYC solution performance."
+          },
+          {
+            "Num": 5,
+            "Affected Section/Paragraph": "7.4",
+            "Summary of Impact": "The new requirements in Appendix 4 for financial institutions to implement additional safeguards when offering higher risk financial products through e-KYC, such as requiring credit transfers from existing bank accounts and implementing ringfencing parameters, aim to mitigate the risks associated with these higher risk financial products."
+          }
+        ]
+      },
+      "Change": [
+        {
+          "Num": 1,
+          "Affected Section/Paragraph": "4.1",
+          "Summary of Impact": "The new policy (section 3.1) introduces several new criteria and adjustments compared to the current policy document(section 4.1). Here's a summary of the impacts:\n\nCompliance History (New in 3.1)\nImpact: The updated policy now requires a review of past legal issues or lawsuits, adding an extra layer of diligence which will necessitate additional legal checks and documentation.\n\nReputation (New in 3.1)\nImpact: The updated policy mandates assessing the entity's reputation in the industry and any past issues that could affect the partnership; compliance will require implementing a process for evaluating reputation, likely involving public records or third-party assessments."
+        },
+        {
+          "Num": 2,
+          "Affected Section/Paragraph": "4.4 Training and Awareness",
+          "Summary of Impact": "The company now has the option to decide whether to implement a training and awareness program or not."
+        },
+        {
+          "Num": 3,
+          "Affected Section/Paragraph": "Sections 1, 2, 3, 4, 5, 6, 7",
+          "Summary of Impact": "The updated policy document has expanded the scope to cover e-KYC implementation for both individuals and legal persons. The policy requirements have been enhanced to provide more detailed guidance on e-KYC solutions, including requirements on the use of artificial intelligence, machine learning or other forms of predictive algorithms, reliance on human representatives, and additional safeguards for higher risk financial products."
+        },
+        {
+          "Num": 4,
+          "Affected Section/Paragraph": "Section 8.22, Appendix 3",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to ensure the technology provider appointed to provide the e-KYC solution conducts an external independent assessment on the e-KYC solution in accordance with the minimum scope and criteria specified. This is to identify the overall effectiveness and robustness of the e-KYC solution in detecting and mitigating ML/TF/PF and fraud risks."
+        },
+        {
+          "Num": 5,
+          "Affected Section/Paragraph": "Section 8.23, 8.24, 8.25",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to perform due diligence on the identified technology provider and the e-KYC solution prior to implementation, and to conduct an independent assessment on the financial institution\"s own processes, procedures and controls prior to first-time implementation of an e-KYC solution. These requirements aim to ensure the overall effectiveness of e-KYC implementation."
+        },
+        {
+          "Num": 6,
+          "Affected Section/Paragraph": "Appendix 2",
+          "Summary of Impact": "More detailed requirements have been introduced on the measurement and assessment of False Acceptance Rate (FAR), including the adoption of a tiered approach for FAR threshold monitoring, review and notification to the Bank. This aims to strengthen the monitoring and management of e-KYC solution performance."
+        },
+        {
+          "Num": 7,
+          "Affected Section/Paragraph": "Appendix 4",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to implement additional safeguards when offering higher risk financial products through e-KYC, such as current accounts, savings accounts and unrestricted investment accounts. This includes measures like requiring credit transfers from existing bank accounts and implementing ringfencing parameters to mitigate risks."
+        }
+      ],
+      "Data": [
+        {
+          "Num": 1,
+          "Affected Section/Paragraph": "4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7",
+          "Summary of Impact": "The new policy (sections 1, 2, 3, 4, 5, 6, 7) has expanded the scope to cover e-KYC implementation for both individuals and legal persons. The policy requirements have been enhanced to provide more detailed guidance on e-KYC solutions, including requirements on the use of artificial intelligence, machine learning or other forms of predictive algorithms, reliance on human representatives, and additional safeguards for higher risk financial products. This will require the organization to review and update its internal policies and procedures to align with the new regulatory requirements."
+        },
+        {
+          "Num": 2,
+          "Affected Section/Paragraph": "6.2 Data Storage",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to ensure the technology provider appointed to provide the e-KYC solution conducts an external independent assessment on the e-KYC solution in accordance with the minimum scope and criteria specified (section 8.22, Appendix 3). This will require the organization to implement a process to verify the independent assessment of the e-KYC solution and its effectiveness in detecting and mitigating ML/TF/PF and fraud risks."
+        },
+        {
+          "Num": 3,
+          "Affected Section/Paragraph": "6.3 Data Usage",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to perform due diligence on the identified technology provider and the e-KYC solution prior to implementation, and to conduct an independent assessment on the financial institution\"s own processes, procedures and controls prior to first-time implementation of an e-KYC solution (sections 8.23, 8.24, 8.25). This will require the organization to implement a comprehensive due diligence and assessment process to ensure the overall effectiveness of e-KYC implementation."
+        },
+        {
+          "Num": 4,
+          "Affected Section/Paragraph": "6.2 Data Storage",
+          "Summary of Impact": "More detailed requirements have been introduced on the measurement and assessment of False Acceptance Rate (FAR), including the adoption of a tiered approach for FAR threshold monitoring, review and notification to the Bank (Appendix 2). This will require the organization to enhance its monitoring and management of e-KYC solution performance to ensure compliance with the new regulatory requirements."
+        },
+        {
+          "Num": 5,
+          "Affected Section/Paragraph": "6.3 Data Usage",
+          "Summary of Impact": "New requirements have been introduced for financial institutions to implement additional safeguards when offering higher risk financial products through e-KYC, such as current accounts, savings accounts and unrestricted investment accounts (Appendix 4). This includes measures like requiring credit transfers from existing bank accounts and implementing ringfencing parameters to mitigate risks. The organization will need to review and update its processes and controls for higher risk financial products to align with the new regulatory requirements."
+        }
+      ],
+      "Incident": [
+        {
+          "Num": 1,
+          "Affected Section/Paragraph": "4.1 Purpose and Applicability",
+          "Summary of Impact": "The new policy (sections 1, 2, 3, 4, 5, 6, 7) has expanded the scope to cover e-KYC implementation for both individuals and legal persons. The policy requirements have been enhanced to provide more detailed guidance on e-KYC solutions, including requirements on the use of artificial intelligence, machine learning or other forms of predictive algorithms, reliance on human representatives, and additional safeguards for higher risk financial products. This will require the institution to review and update its internal policy to align with the new regulatory requirements."
+        },
+        {
+          "Num": 2,
+          "Affected Section/Paragraph": "Section 8.22, Appendix 3",
+          "Summary of Impact": "The new policy has introduced requirements for financial institutions to ensure the technology provider appointed to provide the e-KYC solution conducts an external independent assessment on the e-KYC solution. This will impact the institution\"s vendor management and due diligence processes, as they will need to incorporate these new requirements when selecting and onboarding e-KYC technology providers."
+        },
+        {
+          "Num": 3,
+          "Affected Section/Paragraph": "Section 8.23, 8.24, 8.25",
+          "Summary of Impact": "The new policy has introduced requirements for financial institutions to perform due diligence on the identified technology provider and the e-KYC solution prior to implementation, and to conduct an independent assessment on the institution\"s own processes, procedures and controls prior to first-time implementation of an e-KYC solution. This will require the institution to establish new procedures and controls to comply with these requirements before deploying any e-KYC solution."
+        },
+        {
+          "Num": 4,
+          "Affected Section/Paragraph": "Appendix 2",
+          "Summary of Impact": "The new policy has introduced more detailed requirements on the measurement and assessment of False Acceptance Rate (FAR), including the adoption of a tiered approach for FAR threshold monitoring, review and notification to the Bank. This will impact the institution\"s e-KYC performance monitoring and reporting processes, as they will need to implement the new FAR monitoring and management requirements."
+        },
+        {
+          "Num": 5,
+          "Affected Section/Paragraph": "Appendix 4",
+          "Summary of Impact": "The new policy has introduced requirements for financial institutions to implement additional safeguards when offering higher risk financial products through e-KYC, such as current accounts, savings accounts and unrestricted investment accounts. This includes measures like requiring credit transfers from existing bank accounts and implementing ringfencing parameters. The institution will need to update its product offering and onboarding processes to comply with these new requirements."
+        }
+      ]
+    }
+  },
+  "RMiT": {
+    "results": {
+      "part 1": [
+        {
+          "Num": 1,
+          "Affected Section/Paragraph": "Paragraph 1.3",
+          "Summary of Impact": "The following additions have been made in the updated version of the document: 1. Inclusion of licensed digital banks and licensed Islamic digital banks in the list of financial institutions to which this policy document applies. 2. Inclusion of a new Appendix 10 which provides additional guidance to financial institutions for the assessment of common key risks and considerations of control measures when financial institutions adopt public cloud for critical systems."
+        },
+        {
+          "Num": 2,
+          "Affected Section/Paragraph": "Paragraph 4.1",
+          "Summary of Impact": "The effective date for this policy document has been updated. Paragraph 10.50, paragraph 15 and Appendix 10 come into effect on 1 June 2024 for financial institutions other than licensed digital banks and licensed Islamic digital banks, while the rest of the policy document comes into effect on 1 June 2023 for all financial institutions."
+        },
+        {
+          "Num": 3,
+          "Affected Section/Paragraph": "Paragraph 7.1",
+          "Summary of Impact": "The policy document on Risk Management in Technology (RMiT) issued on 1 January 2020 has been superseded, except for paragraphs 10.49, 10.50, 10.51 and 10.52 which shall remain applicable until 31 May 2024 in respect of financial institutions described in paragraph 4.1(a) and (b)."
+        },
+        {
+          "Num": 4,
+          "Affected Section/Paragraph": "Part C - Regulatory Process",
+          "Summary of Impact": "A new section on \"Consultation and Notification related to Cloud Services\" has been added, which requires financial institutions to consult the Bank prior to the first-time adoption of public cloud for critical systems, and to notify the Bank on any subsequent adoption of public cloud for critical systems."
+        },
+        {
+          "Num": 5,
+          "Affected Section/Paragraph": "Appendix 10",
+          "Summary of Impact": "A new Appendix 10 has been added which provides additional guidance to financial institutions for the assessment of common key risks and considerations of control measures when financial institutions adopt public cloud for critical systems."
+        }
+      ],
+      "part 2": {
+        "Access": [
+          {
+            "Num": 1,
+            "Affected Section/Paragraph": "1.2",
+            "Summary of Impact": "The new policy (paragraph 1.3) expands the scope of the policy document to include licensed digital banks and licensed Islamic digital banks, in addition to the existing financial institutions. This will require the institution to review and potentially update its internal policy to ensure alignment with the expanded scope."
+          },
+          {
+            "Num": 2,
+            "Affected Section/Paragraph": "1.3",
+            "Summary of Impact": "The updated effective date (paragraph 4.1) for the new policy document will require the institution to review and potentially update the internal policy to ensure compliance with the new effective dates. Specifically, paragraphs 10.50, 15, and Appendix 10 come into effect on 1 June 2024 for financial institutions other than licensed digital banks and licensed Islamic digital banks, while the rest of the policy document comes into effect on 1 June 2023 for all financial institutions."
+          },
+          {
+            "Num": 3,
+            "Affected Section/Paragraph": "2.1(a)",
+            "Summary of Impact": "The superseding of the previous RMiT policy document (paragraph 7.1) will require the institution to review and update the internal policy to reflect the changes in the new RMiT policy, except for paragraphs 10.49, 10.50, 10.51, and 10.52, which shall remain applicable until 31 May 2024 for the specified financial institutions."
+          },
+          {
+            "Num": 4,
+            "Affected Section/Paragraph": "2.1",
+            "Summary of Impact": "The addition of a new section on \"Consultation and Notification related to Cloud Services\" (Part C - Regulatory Process) will require the institution to review and potentially update its internal policy to ensure compliance with the new requirements for consulting the Bank prior to the first-time adoption of public cloud for critical systems, and notifying the Bank on any subsequent adoption of public cloud for critical systems."
+          },
+          {
+            "Num": 5,
+            "Affected Section/Paragraph": "2.1",
+            "Summary of Impact": "The addition of a new Appendix 10 (Appendix 10) will require the institution to review and potentially update its internal policy to incorporate the guidance provided for the assessment of common key risks and considerations of control measures when adopting public cloud for critical systems."
+          }
+        ],
+        "Change": [
+          {
+            "Num": 1,
+            "Affected Section/Paragraph": "1.3",
+            "Summary of Impact": "The new policy (section 1.3) expands the scope of the policy document to include licensed digital banks and licensed Islamic digital banks, in addition to the existing financial institutions. This will require the organization to review and potentially update its internal policy to ensure compliance with the expanded scope."
+          },
+          {
+            "Num": 2,
+            "Affected Section/Paragraph": "4.1",
+            "Summary of Impact": "The updated effective date for the policy document (section 4.1) will require the organization to review the timeline for implementing the changes in its internal policy and ensure compliance by the specified dates."
+          },
+          {
+            "Num": 3,
+            "Affected Section/Paragraph": "7.1",
+            "Summary of Impact": "The superseding of the previous RMiT policy document (section 7.1), except for certain paragraphs, will require the organization to review its internal policy and align it with the updated RMiT policy document."
+          },
+          {
+            "Num": 4,
+            "Affected Section/Paragraph": "Part C - Regulatory Process",
+            "Summary of Impact": "The addition of a new section on \"Consultation and Notification related to Cloud Services\" (Part C) will require the organization to establish a process for consulting with the Bank prior to the first-time adoption of public cloud for critical systems, and for notifying the Bank on any subsequent adoptions. This will need to be incorporated into the organization's internal policy and procedures."
+          },
+          {
+            "Num": 5,
+            "Affected Section/Paragraph": "Appendix 10",
+            "Summary of Impact": "The addition of a new Appendix 10 providing guidance on the assessment of risks and control measures for the adoption of public cloud for critical systems will require the organization to review and potentially update its internal policy and procedures to align with the new guidance."
+          }
+        ],
+        "Data": [
+          {
+            "Num": 1,
+            "Affected Section/Paragraph": "4.1",
+            "Summary of Impact": "The effective date for this policy document has been updated. Paragraph 10.50, paragraph 15 and Appendix 10 come into effect on 1 June 2024 for financial institutions other than licensed digital banks and licensed Islamic digital banks, while the rest of the policy document comes into effect on 1 June 2023 for all financial institutions."
+          },
+          {
+            "Num": 2,
+            "Affected Section/Paragraph": "7.1",
+            "Summary of Impact": "The policy document on Risk Management in Technology (RMiT) issued on 1 January 2020 has been superseded, except for paragraphs 10.49, 10.50, 10.51 and 10.52 which shall remain applicable until 31 May 2024 in respect of financial institutions described in paragraph 4.1(a) and (b)."
+          },
+          {
+            "Num": 3,
+            "Affected Section/Paragraph": "Part C - Regulatory Process",
+            "Summary of Impact": "A new section on \"Consultation and Notification related to Cloud Services\" has been added, which requires financial institutions to consult the Bank prior to the first-time adoption of public cloud for critical systems, and to notify the Bank on any subsequent adoption of public cloud for critical systems."
+          },
+          {
+            "Num": 4,
+            "Affected Section/Paragraph": "Appendix 10",
+            "Summary of Impact": "A new Appendix 10 has been added which provides additional guidance to financial institutions for the assessment of common key risks and considerations of control measures when financial institutions adopt public cloud for critical systems."
+          }
+        ],
+        "Incident": [
+          {
+            "Num": 1,
+            "Affected Section/Paragraph": "1.2",
+            "Summary of Impact": "The updated policy document now includes licensed digital banks and licensed Islamic digital banks in the list of financial institutions to which this policy document applies. This expansion of scope will require these newly included entities to review and align their incident management procedures with the requirements outlined in the updated policy."
+          },
+          {
+            "Num": 2,
+            "Affected Section/Paragraph": "1.3",
+            "Summary of Impact": "The effective date for the implementation of this policy document has been updated. Certain sections, such as paragraph 10.50, paragraph 15, and Appendix 10, will come into effect on 1 June 2024 for financial institutions other than licensed digital banks and licensed Islamic digital banks, while the rest of the policy document will come into effect on 1 June 2023 for all financial institutions. This staggered implementation timeline will require the organization to carefully plan and execute the necessary changes to align with the new effective dates."
+          },
+          {
+            "Num": 3,
+            "Affected Section/Paragraph": "2.1(a)",
+            "Summary of Impact": "The previous policy document on Risk Management in Technology (RMiT) issued on 1 January 2020 has been superseded, except for paragraphs 10.49, 10.50, 10.51, and 10.52, which shall remain applicable until 31 May 2024 for the specified financial institutions. This change will require the organization to review and update its references to the RMiT policy document and ensure compliance with the new policy requirements."
+          },
+          {
+            "Num": 4,
+            "Affected Section/Paragraph": "Part C - Regulatory Process",
+            "Summary of Impact": "A new section on \"Consultation and Notification related to Cloud Services\" has been added, which requires financial institutions to consult the Bank prior to the first-time adoption of public cloud for critical systems, and to notify the Bank on any subsequent adoption of public cloud for critical systems. This new requirement will necessitate the organization to establish a process for consulting and notifying the Bank regarding the use of public cloud for critical systems, which may impact the organization's cloud adoption strategy and implementation timelines."
+          },
+          {
+            "Num": 5,
+            "Affected Section/Paragraph": "Appendix 10",
+            "Summary of Impact": "A new Appendix 10 has been added, which provides additional guidance to financial institutions for the assessment of common key risks and considerations of control measures when financial institutions adopt public cloud for critical systems. This new appendix will require the organization to review and update its cloud adoption strategy and implementation plans to ensure alignment with the guidance provided, which may involve additional risk assessments, control measures, and documentation requirements."
+          }
+        ]
+      }
+    }
+  }
+}

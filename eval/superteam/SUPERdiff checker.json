@@ -1,0 +1,65 @@
+[
+        {
+        "section": "Introduction",
+        "old_policy_reference": "Section 1",
+        "change": "Adds specific examples of regulatory guidelines to the introduction of the eKYC process.",
+        "impact": "Enhances clarity and serves as a practical reference for staff and stakeholders concerning compliance expectations.",
+        "reasoning": "Increased specificity in regulatory requirements increases the levels of clarity and comprehension among staff."
+    },
+    {
+        "section": "Definitions",
+        "old_policy_reference": "Section 2",
+        "change": "Updates definitions with more precise legal terminology for critical terms such as \"Customer Due Diligence\" and \"Identity Verification\".",
+        "impact": "Essential in ensuring that all stakeholders have a consistent understanding of terms that directly affect compliance and operational procedures in the eKYC framework.",
+        "reasoning": "Enhancing specificity aids compliance and reduces ambiguity, which is vital in a regulated environment."
+    },
+    {
+        "section": "Scope and Applicability",
+        "old_policy_reference": "Section 3",
+        "change": "Broadens the scope to include digital onboarding processes.",
+        "impact": "Requires procedures to be adapted to include digital onboarding, necessitating updates across multiple internal documents.",
+        "reasoning": "Signifies a shift in operational procedures, recognizing evolving industry practices and requiring adjustments in training and documented workflows."
+    },
+    {
+        "section": "Responsibilities",
+        "old_policy_reference": "Section 4",
+        "change": "Introduction of new roles related to data protection and IT security.",
+        "impact": "Requires clear documentation of the new roles and responsibilities, potentially leading to adjustments in resource allocation and workload distribution.",
+        "reasoning": "Clarifies roles, ensuring accountability and complementing operational changes driven by new tools or processes."
+    },
+    {
+        "section": "Procedures",
+        "old_policy_reference": "Section 5",
+        "change": "Updates procedures to incorporate automated verification methods.",
+        "impact": "Necessitates comprehensive retraining of personnel and updates to all procedural documents.",
+        "reasoning": "Directly affects how eKYC tasks are executed, making procedural updates and staff training critical."
+    },
+    {
+        "section": "Compliance Requirements",
+        "old_policy_reference": "Section 6",
+        "change": "Highlights updated compliance measures based on recent regulatory changes.",
+        "impact": "Requires thorough updates in associated compliance documentation and increased training sessions for staff.",
+        "reasoning": "Regulatory compliance is foundational to the eKYC process, thus updates in this section are crucial to maintaining legal standing and operational integrity."
+    },
+    {
+        "section": "Record Keeping",
+        "old_policy_reference": "Section 7",
+        "change": "Updated record-keeping requirements to reflect digital records and e-signatures.",
+        "impact": "Requires revisions in storage protocols and investments in technology for digital archival processes.",
+        "reasoning": "Ensures legality and operational efficiency, introducing implications for data security measures."
+    },
+    {
+        "section": "Review and Audit",
+        "old_policy_reference": "Section 8",
+        "change": "Expanded audit procedures with periodic reviews.",
+        "impact": "May require increased operational oversight and documentation concerning the audit processes.",
+        "reasoning": "Enhances the audit framework, promoting accountability and proactive identification of compliance issues."
+    },
+    {
+        "section": "Appendices",
+        "old_policy_reference": "Section 9",
+        "change": "Revised Appendix A for a new compliance checklist and newly added Appendix B for frequently asked questions.",
+        "impact": "Demands updates across relevant training programs to incorporate their contents.",
+        "reasoning": "Structures resources like checklists and FAQs, supporting compliance efforts and staff training."
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "section": "Purpose and Applicability",
+        "impact": "The updated regulatory policy document introduces Appendix 10, which expands the guidelines and control measures for financial institutions. This change necessitates a review and potential update of the Change Management Procedure (CMP) to incorporate these new practices and standards. Specifically, the CMP must ensure that it aligns with the expanded guidelines to maintain regulatory compliance. Additionally, the omission of the issuance date in the legal provision could create ambiguity regarding the applicability of the CMP, necessitating a clear reference to the version of the policy being followed.",
+        "recommended_actions": "The CMP should be revised to explicitly reference the new guidelines introduced in Appendix 10, ensuring that all changes affecting technology service delivery are compliant with these expanded standards. This may involve updating the objectives of the CMP to include adherence to the new practices outlined in Appendix 10. Furthermore, the CMP should include a clear statement regarding the issuance date and version control to eliminate any ambiguity about the policy's applicability. Training sessions may also be necessary to ensure that all stakeholders understand the implications of the new guidelines and how to implement them effectively.",
+        "highlighted_phrases": [
+            "expanded guidelines and control measures",
+            "aligns with the expanded guidelines",
+            "ambiguity regarding the applicability",
+            "reference to the version of the policy"
+        ]
+    },
+    {
+        "section": "Related Policies and Procedures",
+        "impact": "The updated regulatory policy document introduces significant changes that affect the internal policy section on Related Policies and Procedures. Here are the key impacts:\n\n1. Issuance Dates (New Requirement): The updated policy mandates the inclusion of issuance dates for all referenced documents. This change enhances clarity and provides a timeline for the relevance and applicability of each document, which is crucial for compliance and enforcement.\n\n2. Superseded Documents: The removal of older documents in the updated policy indicates a shift towards a more streamlined regulatory environment. However, this may create gaps in guidance for institutions that previously relied on those documents. Financial institutions must ensure they are fully aware of the new requirements and adapt their policies accordingly.\n\n3. Governance Structure: The lack of proper formatting in the updated policy could lead to confusion regarding the governance structure and responsibilities outlined for the Board of Directors. This may impact compliance and governance, necessitating a review of how these responsibilities are communicated within the internal policy.",
+        "recommended_actions": "To ensure compliance with the updated regulatory policy, the internal policy section on Related Policies and Procedures should be revised to include the following:\n\n- Add issuance dates for each referenced document to clarify their relevance and applicability.\n- Review the list of policies and procedures to ensure that only current and applicable documents are included, removing any outdated references.\n- Improve the formatting of the section to enhance clarity and understanding of governance responsibilities, ensuring that stakeholders can easily identify their roles and obligations.\n- Conduct training sessions for relevant staff to familiarize them with the updated policies and the implications of the changes, particularly regarding compliance and governance.\n\nBy implementing these actions, the financial institution can align its internal policies with the updated regulatory requirements and mitigate potential compliance risks.",
+        "highlighted_phrases": [
+            "inclusion of issuance dates",
+            "streamlining regulations",
+            "gaps in guidance",
+            "governance structure",
+            "compliance and enforcement"
+        ]
+    },
+    {
+        "section": "Glossary of Key Terms",
+        "impact": "The updated regulatory policy introduces changes in terminology and definitions that affect the internal glossary. Specifically, the term 'prescribed development financial institution' has been changed to 'prescribed institution', which may broaden the scope of entities included under this definition. This change necessitates an update to the glossary to ensure that all relevant terms are accurately defined and aligned with the new regulatory language. Additionally, the inclusion of issuance dates in Version 2 of related legal instruments enhances clarity and may require the addition of a definition for 'issuance date' to ensure stakeholders understand the context of compliance timelines.",
+        "recommended_actions": "The glossary should be updated to reflect the new terminology, specifically replacing 'prescribed development financial institution' with 'prescribed institution'. Furthermore, a new entry for 'issuance date' should be added to clarify its significance in relation to compliance and the applicability of various policy documents. It is also recommended to review all definitions to ensure they align with the latest regulatory updates and to provide training for relevant staff on these changes to ensure understanding and compliance.",
+        "highlighted_phrases": [
+            "prescribed institution",
+            "issuance date",
+            "regulatory oversight",
+            "compliance requirements"
+        ]
+    },
+    {
+        "section": "Internal Policy Section 4: Overview",
+        "impact": "The updated regulatory policy document introduces Appendix 10, which expands the guidelines and control measures for financial institutions. This change necessitates a review of the current change management lifecycle outlined in the internal policy. Specifically, the following impacts are noted:\n\n1. **Expanded Guidelines**: The introduction of new practices or standards in Appendix 10 means that the existing change management process may need to incorporate additional steps or considerations to ensure compliance with these new guidelines.\n\n2. **Increased Complexity**: The need to understand and implement the new appendix may require additional training and resources, potentially complicating the change initiation and approval processes outlined in the internal policy.\n\n3. **Operational Strategies**: The financial institution may need to adjust its operational strategies to accommodate the new compliance requirements, which could affect the deployment and review phases of the change lifecycle.",
+        "recommended_actions": "To align with the updated regulatory requirements, the internal policy should be revised to include references to Appendix 10 and outline how the new guidelines will be integrated into the existing change management lifecycle. This may involve:\n\n- Updating the change initiation process to include a review of Appendix 10 guidelines.\n- Providing training for staff on the new standards and practices introduced in Appendix 10.\n- Adjusting the approval and review stages to ensure that all changes comply with the expanded guidelines.\n- Implementing a communication strategy to keep stakeholders informed about the changes and their implications for compliance and governance.\n\nBy proactively addressing these areas, the financial institution can ensure that it maintains stable and reliable services while effectively managing compliance with the updated regulatory standards.",
+        "highlighted_phrases": [
+            "structured lifecycle of change initiation",
+            "analysis, approval, development, deployment, review, and notification",
+            "ensuring stable and reliable services",
+            "reducing incidents related to changes",
+            "maintaining compliance with regulatory standards",
+            "Appendix 10",
+            "expanded guidelines",
+            "increased complexity of compliance"
+        ]
+    },
+    {
+        "section": "Roles and Responsibilities",
+        "impact": "The updated regulatory policy introduces significant changes that affect the internal policy on roles and responsibilities. Key impacts include:\n\n1. **Cybersecurity Training**: The removal of the annual requirement for cybersecurity awareness education necessitates a review of the responsibilities of the Cybersecurity Engineering team. They may need to implement alternative training schedules or methods to ensure staff remain aware of evolving cyber threats.\n\n2. **Risk Assessment**: The inclusion of 'cloud service' in the regulatory framework requires the Chief Information Security Officer (CISO) and Risk Officer to expand their responsibilities to include cloud-specific risk assessments. This may involve additional collaboration with the Software Engineering team to ensure that cloud services are adequately evaluated for risks.\n\n3. **Governance Structure**: The potential confusion arising from the lack of proper formatting in the regulatory document may require the Change Advisory Committee (CAC) to clarify their roles and responsibilities to ensure effective communication and compliance with governance standards.",
+        "recommended_actions": "To align with the updated regulatory requirements, the internal policy should be revised to include the following actions:\n\n- **Cybersecurity Training**: Establish a new framework for cybersecurity training that compensates for the removal of the annual requirement, possibly by implementing quarterly training sessions or on-demand training modules to keep staff updated on current threats.\n- **Cloud Risk Assessment**: Update the roles of the CISO and Risk Officer to explicitly include responsibilities for conducting cloud service risk assessments. This may involve developing new procedures for evaluating cloud-related risks and ensuring that all relevant teams are trained on these procedures.\n- **Governance Clarity**: Revise the documentation format and structure to enhance clarity and ensure that all stakeholders understand their roles within the governance framework. This may include creating a visual representation of the governance structure or a detailed guide outlining each role's responsibilities in relation to compliance and risk management.",
+        "highlighted_phrases": [
+            "Cybersecurity Training",
+            "Cloud Risk Assessment",
+            "Governance Structure",
+            "Roles and Responsibilities",
+            "Compliance and Governance"
+        ]
+    },
+    {
+        "section": "Categories of Changes and Handling",
+        "impact": "The updated regulatory policy introduces a more structured approach to governance and risk management, particularly in technology and cybersecurity. This necessitates a review of the current categorization of changes to ensure alignment with the new requirements. Specifically, the emphasis on technology risk management and cybersecurity may require the internal policy to incorporate additional categories or criteria for changes related to technology and cyber risk. The existing categories (CAT01, CAT02, CAT03) may need to be expanded to include specific references to technology and cybersecurity changes, ensuring that all changes are assessed for their impact on these critical areas.",
+        "recommended_actions": "The internal policy should be updated to include a new category, CAT04, specifically for changes related to technology risk management and cybersecurity. This category should outline the requirements for assessing changes that impact technology projects and cyber risk frameworks. Additionally, the Change Management Process in Section 7 should be revised to include specific steps for evaluating technology and cybersecurity implications of changes. Training for staff involved in change management may also be necessary to ensure they understand the new requirements and can effectively implement the updated processes. Furthermore, a review mechanism should be established to ensure ongoing compliance with the new regulatory expectations.",
+        "highlighted_phrases": [
+            "structured approach to governance",
+            "technology risk management",
+            "cybersecurity",
+            "new category CAT04",
+            "Change Management Process",
+            "evaluate technology and cybersecurity implications"
+        ]
+    },
+    {
+        "section": "Change Management Process",
+        "impact": "The updated regulatory policy introduces several changes that affect the Change Management Process. Specifically, the enhancements in technology risk management and the introduction of continuous compliance requirements necessitate a reevaluation of the current change management procedures. The following impacts are identified:\n\n1. Governance: The lack of proper formatting in the previous version could lead to confusion, which may affect the clarity of the change management process. This necessitates a review and potential restructuring of the documentation to ensure clear communication of responsibilities.\n\n2. Technology Risk Management: The expanded oversight role for technology risk management implies that the change management process must incorporate additional steps for assessing technology risks associated with changes. This may require updates to the process flow to include risk assessments and approvals from the technology risk management function.\n\n3. Assessment and Gap Analysis: The introduction of continuous compliance and annual assessments means that the change management process must now include mechanisms for ongoing evaluation of changes and their compliance with regulatory requirements. This could lead to the need for more frequent reviews and updates to the change management documentation and procedures.",
+        "recommended_actions": "To ensure compliance with the updated regulatory requirements, the Change Management Process section should be revised to include:\n- A clear outline of the roles and responsibilities of the technology risk management function in the change management process.\n- A structured approach for conducting risk assessments for each change, including documentation and approval steps.\n- A framework for continuous compliance that outlines how changes will be monitored and assessed on an ongoing basis, including the frequency of reviews and updates to the process.\n- Training for relevant staff on the new requirements and processes to ensure effective implementation and adherence to the updated policy.",
+        "highlighted_phrases": [
+            "enhanced oversight and advisory role of the technology risk management function",
+            "continuous compliance and updated annual assessment",
+            "more informed decision-making at the board level",
+            "additional resources and training for the CISO",
+            "rigorous oversight and accountability"
+        ]
+    }
+]

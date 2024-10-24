@@ -1,0 +1,510 @@
+[
+    {
+        "old_section_no": "1",
+        "new_section_no": "1",
+        "section": "Introduction",
+        "difference": "Appendices referenced in the control measures have changed from 'Appendices 1 to 5' in version 1 to 'Appendices 1 to 5 and Appendix 10' in version 2.",
+        "impact": "The inclusion of Appendix 10 in version 2 suggests an expansion of the guidelines or control measures available to financial institutions. This could imply that there are additional practices or standards that institutions need to consider, potentially increasing the complexity of compliance. Stakeholders may need to invest more resources in understanding and implementing the new appendix, which could affect their operational strategies and risk management frameworks.",
+        "highlighted_phrases_from_version_1": [
+            "The control measures set out in Appendices 1 to 5 serve as a guide for sound practices in defined areas."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "The control measures set out in Appendices 1 to 5 and Appendix 10 serve as a guide for sound practices in defined areas."
+        ]
+    },
+    {
+        "old_section_no": "2",
+        "new_section_no": "2",
+        "section": "Applicability",
+        "difference": "No differences observed between the two versions.",
+        "impact": "Since there are no changes, there are no implications or consequences to consider.",
+        "highlighted_phrases_from_version_1": [
+            "This policy document is applicable to all financial institutions as defined in paragraph 5.2."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "This policy document is applicable to all financial institutions as defined in paragraph 5.2."
+        ]
+    },
+    {
+        "old_section_no": "3",
+        "new_section_no": "3",
+        "section": "Legal provision",
+        "difference": "In version 2, the date 'Issued on: 19 June 2020' is omitted from the section.",
+        "impact": "The omission of the issuance date may lead to ambiguity regarding the applicability and relevance of the policy. Stakeholders may be unclear about the version of the policy they are referencing, which could affect compliance and enforcement.",
+        "highlighted_phrases_from_version_1": [
+            "Issued on: 19 June 2020"
+        ],
+        "highlighted_phrases_from_version_2": []
+    },
+    {
+        "old_section_no": "4",
+        "new_section_no": "4",
+        "section": "Effective date",
+        "difference": "The effective date of the policy document has changed from 1 January 2020 in version 1 to 1 June 2023 in version 2, with additional specific provisions for different types of financial institutions.",
+        "impact": "The change in the effective date may delay the implementation of the policy, affecting compliance timelines for financial institutions. The additional provisions introduce complexity, as they differentiate between institutions based on their cloud adoption status and type (licensed digital banks vs. others), which could lead to varied compliance strategies and operational adjustments across the sector.",
+        "highlighted_phrases_from_version_1": [
+            "This policy document comes into effect on 1 January 2020."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "This policy document comes into effect on 1 June 2023 except for paragraph 10.50, paragraph 15 and Appendix 10 which come into effect on the corresponding dates in respect of the relevant financial institutions other than a licensed digital bank or licensed Islamic digital bank as set out below:",
+            "This policy document comes into effect on 1 June 2023 in respect of a licensed digital bank or licensed Islamic digital bank."
+        ]
+    },
+    {
+        "old_section_no": "5",
+        "new_section_no": "5",
+        "section": "Interpretation",
+        "difference": "In version 2, the definition of 'financial institution' has been modified to replace 'prescribed development financial institution under the DFIA' with 'prescribed institution under the DFIA'. Additionally, a new explanatory note has been added regarding the definition of 'eligible issuer of e-money'.",
+        "impact": "The change in terminology from 'prescribed development financial institution' to 'prescribed institution' may broaden the scope of entities classified under this definition, potentially including more types of institutions. This could have implications for regulatory oversight and compliance requirements. The added note clarifies the criteria for being an eligible issuer of e-money, which may enhance understanding and compliance among stakeholders.",
+        "highlighted_phrases_from_version_1": [
+            "a prescribed development financial institution under the DFIA"
+        ],
+        "highlighted_phrases_from_version_2": [
+            "a prescribed institution under the DFIA",
+            "For ease of reference, an \u201celigible issuer of e-money\u201d is defined as an approved issuer of electronic money with substantial market presence based on the criteria set out in Appendix 1 of the policy document on Interoperable Credit Transfer Framework."
+        ]
+    },
+    {
+        "old_section_no": "6",
+        "new_section_no": "6",
+        "section": "Related legal instruments and policy documents",
+        "difference": "Version 2 includes specific issuance dates for each policy document and guideline, whereas Version 1 does not provide any dates.",
+        "impact": "The inclusion of issuance dates in Version 2 enhances clarity and provides a timeline for the relevance and applicability of each document. This can aid stakeholders in understanding the context and potential updates to the policies. It may also have legal implications, as referencing specific dates can clarify which versions of documents are applicable at any given time, potentially affecting compliance and enforcement.",
+        "highlighted_phrases_from_version_1": [
+            "This policy document must be read together with any relevant legal instruments, policy documents and guidelines issued by the Bank, in particular\u2014",
+            "(a) Policy Document on Risk Governance;",
+            "(b) Policy Document on Compliance;",
+            "(c) Policy Document on Outsourcing;",
+            "(d) Policy Document on Operational Risk;",
+            "(e) Policy Document on Operational Risk Reporting Requirement \u2013 Operational Risk Integrated Online Network (ORION);",
+            "(f) Policy Document on Introduction of New Products;",
+            "(g) Policy Document on Interoperable Credit Transfer Framework;",
+            "(h) Guidelines on Business Continuity Management (Revised);",
+            "(i) Provisions under paragraphs 21, 22 and 26 of the Guidelines on the Provision of Electronic Banking (e-banking) Services by Financial Institutions;",
+            "(j) Provisions under paragraphs 28 and 29 of the Guidelines on Internet Insurance (Consolidated);",
+            "(k) Guidelines on Data Management and MIS Framework;",
+            "(l) Guidelines on Data Management and MIS Framework for Development Financial Institutions;",
+            "(m) Paragraphs 3 and 5 of the Circular on Internet Takaful."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "This policy document must be read together with any relevant legal instruments, policy documents, guidelines etc. issued by the Bank, including any amendments and reissuances thereafter, in particular\u2014",
+            "(a) Policy Document on Risk Governance issued on 1 March 2013 ;",
+            "(b) Policy Document on Compliance issued on 10 May 2016;",
+            "(c) Policy Document on Outsourcing issued on 23 October 2019;",
+            "(d) Policy Document on Operational Risk issued on 10 May 2016;",
+            "(e) Policy Document on Operational Risk Reporting Requirement \u2013 Operational Risk Integrated Online Network (ORION) issued on 25 February 2021;",
+            "(f) Policy Document on Introduction of New Products issued on 7 March 2014;",
+            "(g) Policy Document on Interoperable Credit Transfer Framework issued on 23 December 2019;",
+            "(h) Policy Document on Business Continuity Management issued on 19 December 2022;",
+            "(i) Provisions under paragraphs 21, 22 and 26 of the Guidelines on the Provision of Electronic Banking (e-banking) Services by Financial Institutions issued on 30 March 2010;",
+            "(j) Guidelines on Data Management and MIS Framework issued on 23 October 2008;",
+            "(k) Guidelines on Data Management and MIS Framework for Development Financial Institutions issued on 5 November 2012."
+        ]
+    },
+    {
+        "old_section_no": "7",
+        "new_section_no": "7",
+        "section": "Policy documents and circulars superseded",
+        "difference": "Version 2 introduces new circulars and guidelines while removing some from Version 1, including the addition of specific dates and details for certain documents.",
+        "impact": "The changes in Version 2 may reflect an updated regulatory environment and a shift in focus towards more recent issues such as remote desktop protocol risks. The removal of older documents could indicate a move towards streamlining regulations, but it may also leave gaps in guidance for institutions that relied on the previous documents. Stakeholders may need to adapt to the new requirements and ensure compliance with the updated list of superseded documents.",
+        "highlighted_phrases_from_version_1": [
+            "(b) Preparedness against Distributed Denial of Service Attack issued on 17 October 2011;",
+            "(f) Guidelines on the Provision of Electronic Banking (e-banking) Services by Financial Institutions, except for the provisions under paragraphs 21, 22 and 26;",
+            "(g) Guidelines on Internet Insurance (Consolidated), except for the provisions under paragraphs 28 and 29;",
+            "(h) Circular on Internet Takaful, except for paragraphs 3 and 5;",
+            "(i) Letter to CEO dated 31 October 2017 entitled \u201cImmediate Measures for Managing identification of Counterfeit Malaysian Currency Notes at Deposit-Accepting Self Service Terminals (SST)\u201d."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "(b) Circular on Prior Notification by Licensed Institutions for External System Interfaces issued on 22 November 2010;",
+            "(g) Managing Cyber Risks on Remote Desktop Protocol Circular issued on 20 July 2016;",
+            "(h) Revocation of Prior Notification by Licensed Institutions for External System Interfaces issued on 1 June 2017;",
+            "(j) Circular on Internet Takaful issued on 10 Jan 2019;",
+            "(p) Guidelines on Internet Insurance (Consolidated) issued on 10 January 2019;"
+        ]
+    },
+    {
+        "old_section_no": "8",
+        "new_section_no": "8",
+        "section": "Governance",
+        "difference": "There is a formatting issue in version 2 where the section headings and paragraphs are not properly spaced, making it difficult to distinguish between sections.",
+        "impact": "The lack of proper formatting in version 2 could lead to confusion among stakeholders regarding the structure and flow of the document. This may hinder effective communication and understanding of the responsibilities outlined for the Board of Directors, potentially impacting compliance and governance.",
+        "highlighted_phrases_from_version_1": [
+            "Responsibilities of the Board of Directors",
+            "S 8.1 The board must establish and approve the technology risk appetite...",
+            "S 8.2 The board must ensure and oversee the adequacy of the financial institution\u2019s IT and cybersecurity strategic plans...",
+            "S 8.3 The board shall be responsible to oversee the effective implementation of a sound and robust technology risk management framework...",
+            "S 8.4 The board must designate a board-level committee which shall be responsible for supporting the board in providing oversight over technology-related matters..."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "Responsibilities of the Board of DirectorsS 8.1The board must establish and approve the technology risk appetite...",
+            "S 8.2The board must ensure and oversee the adequacy of the financial institution\u2019s IT and cybersecurity strategic plans...",
+            "S 8.3The board shall be responsible to oversee the effective implementation of a sound and robust technology risk management framework...",
+            "S 8.4The board must designate a board-level committee which shall be responsible for supporting the board in providing oversight over technology-related matters..."
+        ]
+    },
+    {
+        "old_section_no": "9",
+        "new_section_no": "9",
+        "section": "Technology Risk Management",
+        "difference": "In version 2, the responsibilities of the independent enterprise-wide technology risk management function have been altered and expanded, particularly in the areas of advising on critical technology projects and providing independent views to the board and senior management on third-party assessments.",
+        "impact": "The changes in version 2 enhance the oversight and advisory role of the technology risk management function, potentially leading to more informed decision-making at the board level regarding technology risks. This could improve the institution's ability to manage risks associated with critical technology projects and third-party relationships, thereby strengthening overall risk governance. However, it may also require additional resources and training for the CISO and the risk management team to fulfill these expanded responsibilities effectively.",
+        "highlighted_phrases_from_version_1": [
+            "A financial institution must establish an independent enterprise-wide technology risk management function which is responsible for\u2014",
+            "The CISO is responsible for ensuring the financial institution\u2019s information assets and technologies are adequately protected, which includes\u2014"
+        ],
+        "highlighted_phrases_from_version_2": [
+            "A financial institution must establish an independent enterprise-wide technology risk management function which is responsible for\u2014content(a) implementing the TRMF and CRF;",
+            "(b) advising on critical technology projects and ensuring critical issues that may have an impact on the financial institution\u2019s risk tolerance are adequately deliberated or escalated in a timely manner;",
+            "(c) providing independent views to the board and senior management on third party assessments[5], where necessary."
+        ]
+    },
+    {
+        "old_section_no": "10",
+        "new_section_no": "10",
+        "section": "Technology Operations Management",
+        "difference": "Version 2 introduces a requirement for policies and practices to be reviewed at least once every three years to ensure relevance, which is absent in Version 1.",
+        "impact": "This change in Version 2 emphasizes the need for continuous improvement and adaptability of risk management policies, ensuring they remain effective in a rapidly changing technological environment. This could lead to better risk mitigation and compliance with evolving regulatory standards, ultimately enhancing the institution's operational resilience.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "The policies and practices must be reviewed at least once every three years to ensure that they remain relevant to the financial institution\u2019s environment."
+        ]
+    },
+    {
+        "old_section_no": "11",
+        "new_section_no": "11",
+        "section": "Cybersecurity Management",
+        "difference": "Version 1 focuses on technology security controls for digital services, while Version 2 expands the scope to include a comprehensive Cyber Risk Framework (CRF) and specific appendices for different digital delivery channels.",
+        "impact": "The shift from a focus on technology security controls to a broader Cyber Risk Framework in Version 2 indicates a more holistic approach to cybersecurity, emphasizing governance, risk management, and resilience against cyber threats. This change may enhance the institution's ability to manage cyber risks effectively, but it also increases the complexity of compliance and may require additional resources and training for staff. Stakeholders may need to adapt to new processes and responsibilities outlined in the CRF.",
+        "highlighted_phrases_from_version_1": [
+            "A financial institution must implement robust technology security controls in providing digital services which assure the following:",
+            "(a) confidentiality and integrity of customer and counterparty information and transactions;",
+            "(b) reliability of services delivered via channels and devices with minimum disruption to services;",
+            "(c) proper authentication of users or devices and authorisation of transactions;",
+            "(d) sufficient audit trail and monitoring of anomalous transactions;",
+            "(e) ability to identify and revert to the recovery point prior to incident or service disruption;",
+            "(f) strong physical control and logical control measures."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "In fulfilling paragraph 10.79, a financial institution should adopt the controls specified in the following Appendices for the respective digital delivery channel:",
+            "(a) Appendix 2: Control Measures on Self-Service Terminals (SST);",
+            "(b) Appendix 3: Control Measures on Internet Banking;",
+            "(c) Appendix 4: Control Measures on Mobile Application and Devices.",
+            "A financial institution must ensure that there is an enterprise-wide focus on effective cyber risk management to reflect the collective responsibility of business and technology lines for managing cyber risks.",
+            "A financial institution must develop a CRF which clearly articulates the institution\u2019s governance for managing cyber risks, its cyber resilience objectives and its risk tolerance, with due regard to the evolving cyber threat environment."
+        ]
+    },
+    {
+        "old_section_no": "12",
+        "new_section_no": "12",
+        "section": "Technology Audit",
+        "difference": "Version 1 focuses on the implementation of controls to authenticate and monitor financial transactions, while Version 2 emphasizes the need for technology audits and the qualifications of internal audit staff.",
+        "impact": "The shift from transaction monitoring controls to technology audit requirements may lead to a reduced emphasis on direct transaction security measures. This could potentially expose financial institutions to increased risks of transaction fraud and cyber threats if adequate transaction monitoring controls are not maintained alongside the new audit requirements. Stakeholders may need to reassess their risk management strategies to ensure comprehensive coverage of both transaction security and technology audit processes.",
+        "highlighted_phrases_from_version_1": [
+            "A financial institution must implement controls to authenticate and monitor all financial transactions.",
+            "These controls, at a minimum, must be effective in mitigating man-in-the-middle attacks, transaction fraud, phishing and compromise of application systems and information."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "A financial institution must ensure that the scope, frequency, and intensity of technology audits are commensurate with the complexity, sophistication and criticality of technology systems and applications.",
+            "The internal audit function must be adequately resourced with relevant technology audit competencies and sound knowledge of the financial institution\u2019s technology processes and operations.",
+            "A financial institution must ensure its internal technology audit staff are professionally certified and adequately conversant with the developing sophistication of the financial institution\u2019s technology systems and delivery channels.",
+            "A large financial institution must establish a dedicated internal technology audit function that has specialised technology audit competencies to undertake technology audits.",
+            "A financial institution must establish a technology audit plan that provides appropriate coverage of critical technology services, third party service providers, material external system interfaces, delayed or prematurely terminated critical technology projects and post-implementation review of new or material enhancements of technology services."
+        ]
+    },
+    {
+        "old_section_no": "13",
+        "new_section_no": "13",
+        "section": "Internal Awareness and Training",
+        "difference": "Version 2 omits the requirement for cybersecurity awareness education to be conducted at least annually.",
+        "impact": "The removal of the annual requirement for cybersecurity awareness education may lead to less frequent training for staff, potentially increasing the risk of inadequate preparedness against evolving cyber threats. This could result in a higher likelihood of security breaches and a lack of awareness among employees regarding current cybersecurity practices, ultimately affecting the institution's overall security posture.",
+        "highlighted_phrases_from_version_1": [
+            "This cybersecurity awareness education must be conducted at least annually by the financial institution and must reflect the current cyber threat landscape."
+        ],
+        "highlighted_phrases_from_version_2": []
+    },
+    {
+        "old_section_no": "14",
+        "new_section_no": "14",
+        "section": "Notification for Technology-Related Applications",
+        "difference": "Version 2 introduces a new requirement for financial institutions to have relevant information readily available and submit it to the Bank as required, which is not present in Version 1.",
+        "impact": "This change increases the accountability of financial institutions by mandating them to maintain and provide access to information regarding enhancements that do not materially alter prior assessments. This could lead to more rigorous oversight by the Bank and may require financial institutions to enhance their record-keeping and reporting processes, potentially increasing operational costs and compliance burdens.",
+        "highlighted_phrases_from_version_1": [
+            "However, a financial institution should have the relevant information readily available upon request by the Bank to facilitate the ongoing supervisory process."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "A financial institution must have the relevant information pertaining to any enhancements that do not materially alter the prior assessments and representations made by a financial institution to the Bank readily available and submit the same to the Bank as and when required by the Bank within the period specified by the Bank."
+        ]
+    },
+    {
+        "old_section_no": null,
+        "new_section_no": "15",
+        "section": "Consultation and Notification related to Cloud Services",
+        "difference": "",
+        "impact": "This section establishes a rigorous framework for financial institutions considering the adoption of public cloud services for critical systems. By mandating a comprehensive risk assessment and requiring confirmation from senior management, the policy aims to ensure that potential risks are thoroughly evaluated and mitigated before any cloud adoption occurs. This could lead to enhanced security and risk management practices within financial institutions, ultimately protecting customer data and maintaining trust in the financial system. However, the requirement for third-party reviews may increase operational costs and complexity for institutions, particularly smaller ones. Additionally, the stipulation for ongoing notifications and updates to the Bank could create a more transparent environment but may also lead to bureaucratic delays in the adoption of new technologies. Overall, the section seeks to balance innovation in cloud technology with the necessary safeguards to protect the financial ecosystem.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "A financial institution is required to consult the Bank prior to the first-time adoption of public cloud for critical systems.",
+            "conduct a comprehensive risk assessment of the proposed cloud adoption, including the possible impact and measures to address and mitigate the identified risks",
+            "provide a confirmation by the CISO, senior management officer or the chairman of the board",
+            "perform a third-party pre-implementation review on public cloud implementation",
+            "notify the Bank on any subsequent adoption of public cloud for critical system",
+            "has enhanced the technology risk management framework to manage cloud risks",
+            "has established independent assurance on the cloud risk management framework",
+            "The Bank may at its discretion require a financial institution to consult the Bank",
+            "ensure the roadmap for adoption of cloud services (for critical systems and non-critical systems) is included in the annual outsourcing plan"
+        ]
+    },
+    {
+        "old_section_no": "15",
+        "new_section_no": "16",
+        "section": "Assessment and Gap Analysis",
+        "difference": "The deadline for submitting the gap analysis and action plan has changed from a specific date (18 October 2019) to a timeframe (90 days after the issuance date of this policy document). Additionally, version 2 introduces a requirement for continuous compliance and an updated annual assessment.",
+        "impact": "The change to a 90-day deadline provides more flexibility for financial institutions, allowing them to align their submissions with the issuance of the policy. However, the introduction of continuous compliance and the requirement for an updated annual assessment increases the ongoing obligations for institutions, potentially leading to more rigorous oversight and accountability. This could impact resource allocation and operational processes within financial institutions as they adapt to the new requirements.",
+        "highlighted_phrases_from_version_1": [
+            "must be submitted to the Bank no later than 18 October 2019.",
+            "particularly for gaps that extend beyond the effective date of this policy document."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "must be submitted to the Bank no later than 90 days after the issuance date of this policy document.",
+            "are required to maintain continuous compliance by identifying any new gaps against the enhanced or revised requirements in the latest version of this policy document and taking the necessary steps to address such gaps."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 1",
+        "new_section_no": "Appendix 1",
+        "section": "Storage and Transportation of Sensitive Data in Removable Media",
+        "difference": "In version 2, the phrase 'financial institutions must\u2014' has been changed to 'financial institutions should \u2014' in the context of transporting removable media.",
+        "impact": "This change from 'must' to 'should' alters the mandatory nature of the requirements for financial institutions. 'Must' implies a legal obligation, while 'should' suggests a recommendation. This could lead to weaker compliance and enforcement of the security measures outlined, potentially increasing the risk of mishandling sensitive data during transportation.",
+        "highlighted_phrases_from_version_1": [
+            "financial institutions must\u2014"
+        ],
+        "highlighted_phrases_from_version_2": [
+            "financial institutions should \u2014"
+        ]
+    },
+    {
+        "old_section_no": "Appendix 2",
+        "new_section_no": "Appendix 2",
+        "section": "Control Measures on Self-service Terminals (SST)",
+        "difference": "Version 2 omits the section on Cash SSTs, focusing solely on Non-cash SSTs, while Version 1 includes detailed security measures for both Cash and Non-cash SSTs.",
+        "impact": "The omission of Cash SSTs in Version 2 may lead to a lack of comprehensive security guidelines for financial institutions that operate Cash SSTs. This could result in increased vulnerability to security breaches and operational risks associated with cash transactions, potentially affecting stakeholder trust and regulatory compliance.",
+        "highlighted_phrases_from_version_1": [
+            "Cash SSTs are computer terminals provided by banking institutions such as Automated Teller Machine, Cash Deposit Machine and Cash Recycler Machine that provide cash transactions such as cash withdrawals and deposits including in foreign currencies.",
+            "Financial institutions should ensure the adequacy of physical and logical security and controls implemented on the Cash SST, which includes:",
+            "1. Enforcing full hard disk encryption;",
+            "2. Retaining cards or block access to Cash SST service when the following are detected:",
+            "3. Ensuring Cash SST operating system is running on a secure version operating system with continued developer or vendor support for security patches to fix any operating system security and vulnerabilities;",
+            "4. Deploying Anti-virus (AV) solution for Cash SST and ensure timely update of signatures. Ensure virus scanning on all Cash SSTs is performed periodically;",
+            "5. Implementing a centralised management system to monitor and alert any unauthorised activities on Cash SST such as unauthorised shutting-down of OS or deactivation of the white-listing programme;",
+            "6. Ensuring effective control over the Cash SST lock and key by using a unique and non-duplicable key to open the Cash SST PC Core compartment as well as ensure proper safekeeping and custody of the key;",
+            "7. Installing alarm system with triggering mechanism connected to a centralised alert system to detect and alert bank\u2019s staff of any unauthorised opening or tampering of the physical component of the Cash SST, particularly the access to the Cash SST PC Core;",
+            "8. Securing physically the Cash SST PC Core by enclosing the CPU in a locked case;",
+            "9. Enforcing firewall and Intrusion Prevention System (IPS) at the financial institution\u2019s network to filter communication between the host server and the Cash SST;",
+            "10. Enforcing pairing authentication for key Cash SST components, particularly between cash dispenser and Cash SST controller;",
+            "11. Enforcing Basic Input Output System (BIOS) lock-down which includes:",
+            "12. Ensuring proper configuration and hardening of the OS and application system,",
+            "13. Enforcing secure system parameter setting, which includes:",
+            "14. Performing scanning and removing any known malware such as Backdoor.Padpin and Backdoor.Ploutus;",
+            "15. Enforcing and monitor Cash SST end-point protection such as installing white listing programmes.",
+            "16. Enforcing strict control procedures over installation and maintenance of Cash SST OS and application systems, which includes:",
+            "17. Installing closed-circuit cameras and transaction triggered cameras at strategic locations with adequate lighting in order to ensure high quality and clear closed-circuit television images of cardholder performing a transaction as well as any suspicious activities."
+        ],
+        "highlighted_phrases_from_version_2": []
+    },
+    {
+        "old_section_no": "Appendix 3",
+        "new_section_no": "Appendix 3",
+        "section": "Control Measures on Internet Banking",
+        "difference": "There are no differences between version 1 and version 2 of the policy document section provided.",
+        "impact": "Since there are no changes, there are no implications or consequences to assess. The policy remains consistent across both versions, ensuring that stakeholders can rely on the same security controls for Internet banking.",
+        "highlighted_phrases_from_version_1": [
+            "A financial institution should ensure the adequacy of security controls implemented for Internet banking, which include:",
+            "Ensure Internet banking only runs on secured versions of web browsers that have continued developer support for security patches to fix any vulnerabilities;",
+            "Put in place additional authentication protocols to enable customers to identify the financial institution\u2019s genuine website such as deploying image or word verification authentication or similar controls. The system should require the customer to acknowledge that the image or word is correct before the password box is displayed to the customer;",
+            "Assign a customer to MFA solution binding to a single device;",
+            "Require MFA when registering an account as a \u201cfavourite\u201d beneficiary. A financial institution must also require MFA, for the first funds transfer to the favourite beneficiary;",
+            "For new customers, the default transfer limit shall be set at a conservatively low level (such as RM5,000 per day). However, customers should be provided with the option to change the limit via secure channels (e.g. online with MFA or at branches); and",
+            "Deploy an automated fraud detection system which has the capability to conduct heuristic behavioural analysis."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "A financial institution should ensure the adequacy of security controls implemented for Internet banking, which include:",
+            "Ensure Internet banking only runs on secured versions of web browsers that have continued developer support for security patches to fix any vulnerabilities;",
+            "Put in place additional authentication protocols to enable customers to identify the financial institution\u2019s genuine website such as deploying image or word verification authentication or similar controls. The system should require the customer to acknowledge that the image or word is correct before the password box is displayed to the customer;",
+            "Assign a customer to MFA solution binding to a single device;",
+            "Require MFA when registering an account as a \u201cfavourite\u201d beneficiary. A financial institution must also require MFA, for the first funds transfer to the favourite beneficiary;",
+            "For new customers, the default transfer limit shall be set at a conservatively low level (such as RM5,000 per day). However, customers should be provided with the option to change the limit via secure channels (e.g. online with MFA or at branches); and",
+            "Deploy an automated fraud detection system which has the capability to conduct heuristic behavioural analysis."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 4",
+        "new_section_no": "Appendix 4",
+        "section": "Control Measures on Mobile Application and Devices",
+        "difference": "The wording of certain phrases has changed from 'shall' to 'should' in version 2, indicating a shift from a mandatory requirement to a recommendation.",
+        "impact": "This change may reduce the enforceability of the policy, as 'should' implies a level of discretion that 'shall' does not. Stakeholders may interpret this as a less stringent requirement, potentially leading to weaker compliance and security measures in practice.",
+        "highlighted_phrases_from_version_1": [
+            "The mobile application shall be prohibited from storing customer and counterparty information used for authentication with the application server such as PIN and passwords.",
+            "Authentication and verification of unique key and PIN shall be centralised at the host;",
+            "activation of the mobile application must be subject to authentication by the financial institution;"
+        ],
+        "highlighted_phrases_from_version_2": [
+            "The mobile application should be prohibited from storing customer and counterparty information used for authentication with the application server such as PIN and passwords.",
+            "Authentication and verification of unique key and PIN should be centralised at the host;",
+            "activation of the mobile application should be subject to authentication by the financial institution;"
+        ]
+    },
+    {
+        "old_section_no": "Appendix 5",
+        "new_section_no": "Appendix 5",
+        "section": "Control Measures on Cybersecurity",
+        "difference": "No differences were identified between version 1 and version 2 of the policy document.",
+        "impact": "Since there are no changes between the two versions, the implications for stakeholders, legal compliance, and practical application remain unchanged. The policy continues to provide the same guidelines and requirements for security measures.",
+        "highlighted_phrases_from_version_1": [
+            "Conduct periodic review on the configuration and rules settings for all security devices. Use automated tools to review and monitor changes to configuration and rules settings.",
+            "Update checklists on the latest security hardening of operating systems.",
+            "Update security standards and protocols for web services encryption regularly. Disable support of weak ciphers and protocol in web-facing applications.",
+            "Ensure technology networks are segregated into multiple zones according to threat profile. Each zone shall be adequately protected by various security devices including firewall and Intrusion Prevention System (IPS). This must include mobile and wireless networks as well.",
+            "Ensure security controls for server-to-server external network connections include the following:",
+            "(a) server-to-server authentication such as Public Key Infrastructure (PKI) certificate or user ID and password;",
+            "(b) use of secure tunnels such as Transport Layer Security (TLS) and Virtual Private Network (VPN) IPSec; and",
+            "(c) deploying staging servers with adequate perimeter defences and protection such as firewall, IPS and antivirus.",
+            "Ensure security controls for remote access to server include the following:",
+            "(a) restrict access to only hardened and locked down end-point devices;",
+            "(b) use secure tunnels such as TLS and VPN IPSec;",
+            "(c) deploy \u2018gateway\u2019 server with adequate perimeter defences and protection such as firewall, IPS and antivirus; and",
+            "(d) close relevant ports immediately upon expiry of remote access.",
+            "Ensure overall network security controls are implemented including the following:",
+            "(a) dedicated firewalls at all segments. All external-facing firewalls must be deployed on High Availability (HA) configuration and \u201cfail-close\u201d mode activated. Deploy different brand name/model for two firewalls located in sequence within the same network path;",
+            "(b) IPS at all critical network segments with the capability to inspect and monitor encrypted network traffic;",
+            "(c) web and email filtering systems such as web-proxy, spam filter and anti-spoofing controls;",
+            "(d) end-point protection solution to detect and remove security threats including viruses and malicious software;",
+            "(e) solution to mitigate advanced persistent threats including zero-day and signatureless malware; and",
+            "(f) capture the full network packets to rebuild relevant network sessions to aid forensics in the event of incidents.",
+            "Synchronise and protect the Network Time Protocol (NTP) server against tampering."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "Conduct periodic review on the configuration and rules settings for all security devices. Use automated tools to review and monitor changes to configuration and rules settings.",
+            "Update checklists on the latest security hardening of operating systems.",
+            "Update security standards and protocols for web services encryption regularly. Disable support of weak ciphers and protocol in web-facing applications.",
+            "Ensure technology networks are segregated into multiple zones according to threat profile. Each zone shall be adequately protected by various security devices including firewall and Intrusion Prevention System (IPS). This must include mobile and wireless networks as well.",
+            "Ensure security controls for server-to-server external network connections include the following:",
+            "(a) server-to-server authentication such as Public Key Infrastructure (PKI) certificate or user ID and password;",
+            "(b) use of secure tunnels such as Transport Layer Security (TLS) and Virtual Private Network (VPN) IPSec; and",
+            "(c) deploying staging servers with adequate perimeter defences and protection such as firewall, IPS and antivirus.",
+            "Ensure security controls for remote access to server include the following:",
+            "(a) restrict access to only hardened and locked down end-point devices;",
+            "(b) use secure tunnels such as TLS and VPN IPSec;",
+            "(c) deploy \u2018gateway\u2019 server with adequate perimeter defences and protection such as firewall, IPS and antivirus; and",
+            "(d) close relevant ports immediately upon expiry of remote access.",
+            "Ensure overall network security controls are implemented including the following:",
+            "(a) dedicated firewalls at all segments. All external-facing firewalls must be deployed on High Availability (HA) configuration and \u201cfail-close\u201d mode activated. Deploy different brand name/model for two firewalls located in sequence within the same network path;",
+            "(b) IPS at all critical network segments with the capability to inspect and monitor encrypted network traffic;",
+            "(c) web and email filtering systems such as web-proxy, spam filter and anti-spoofing controls;",
+            "(d) end-point protection solution to detect and remove security threats including viruses and malicious software;",
+            "(e) solution to mitigate advanced persistent threats including zero-day and signatureless malware; and",
+            "(f) capture the full network packets to rebuild relevant network sessions to aid forensics in the event of incidents.",
+            "Synchronise and protect the Network Time Protocol (NTP) server against tampering."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 6",
+        "new_section_no": "Appendix 6",
+        "section": "Positive List for Enhancements to Electronic Banking, Internet Insurance and Internet Takaful Services",
+        "difference": "Version 2 includes additional categories and specific enhancements that were not present in Version 1, such as enabling RENTAS and SWIFT payment transactions, participation in existing approved e-channels, and enhancements for connectivity with third-party services.",
+        "impact": "The changes in Version 2 expand the scope of the policy significantly, allowing for more comprehensive integration with various payment systems and third-party services. This could lead to increased operational efficiency and customer service improvements, but may also raise regulatory scrutiny and compliance challenges due to the broader range of services and technologies involved.",
+        "highlighted_phrases_from_version_1": [
+            "The simplified notification process only applies to enhancements that are explicitly listed below.",
+            "Participation in payment gateways involving Financial Process Exchange (FPX), approved payment system operator and registered business (merchant acquiring business) with BNM.",
+            "Implementation of technology platform approved by Securities Commission e.g. Digital Investment Management",
+            "Enhancements of Open API integrations which does not involve the transmission of 'confidential' or 'sensitive' information."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "The simplified notification process only applies to enhancements that are explicitly listed below.",
+            "Enable RENTAS and SWIFT payment transaction initiative on the Internet platform.",
+            "Participation in existing approved e-channels e.g.: (i) Western Union; (ii) Merchantrade; (iii) Paypal; (iv) Inter Bank Giro (IBG); and (v) Inter Bank Fund Transfer (IBFT).",
+            "Enhancement to add connectivity with approved participants in the Financial Technology Regulatory Sandbox."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 7",
+        "new_section_no": "Appendix 7",
+        "section": "Risk Assessment Report",
+        "difference": "The term 'e-banking' has been expanded to include 'cloud service' in version 2, and additional requirements for a technology risk assessment have been introduced.",
+        "impact": "The inclusion of 'cloud service' indicates a broader scope of services covered under the policy, which may require financial institutions to adapt their operations and compliance measures to address cloud-specific risks. The addition of a technology risk assessment mandates that institutions demonstrate effective risk control and mitigation strategies, potentially increasing the regulatory burden and necessitating more robust risk management frameworks.",
+        "highlighted_phrases_from_version_1": [
+            "Type of e-banking/Internet insurance and Internet takaful service",
+            "Description of the e-banking, Internet insurance and Internet takaful service"
+        ],
+        "highlighted_phrases_from_version_2": [
+            "Type of cloud service /e- banking/Internet insurance and Internet takaful service",
+            "Description of the cloud service, e-banking, Internet insurance and Internet takaful service",
+            "Technology risk assessment shall provide assurance on the effectiveness of technology risk control and mitigation performed by the financial institutions in meeting expectations outlined in Part B of Appendix 9 and paragraph 15.1 (for cloud services)."
+        ]
+    },
+    {
+        "old_section_no": "Appendix 8",
+        "new_section_no": "Appendix 8",
+        "section": "Format of Confirmation",
+        "difference": "The term 'cloud service' has been added to the list of services in version 2, replacing the previous focus solely on 'e-banking / Internet insurance / Internet takaful' in version 1.",
+        "impact": "The inclusion of 'cloud service' in version 2 broadens the scope of the policy to encompass cloud-based financial services, which may require additional compliance measures and risk management strategies. This change reflects the evolving landscape of financial services and may necessitate financial institutions to adapt their operational frameworks to address the unique risks associated with cloud computing, such as data security, privacy concerns, and regulatory compliance. Stakeholders may need to invest in new technologies and training to ensure adherence to the updated policy.",
+        "highlighted_phrases_from_version_1": [
+            "e-banking / Internet insurance / Internet takaful * is consistent with the bank\u2019s / insurer\u2019s / takaful operator\u2019s * strategic and business plans;",
+            "risk management process related to e-banking / Internet insurance / Internet takaful * is subject to appropriate oversight by the board of directors and senior management;",
+            "appropriate security measures to address e-banking / Internet insurance / Internet takaful * security concerns are in place;",
+            "customer support services and education related to e-banking / Internet insurance / Internet takaful * are in place;",
+            "performance monitoring of e-banking / Internet insurance / Internet takaful * products, services, delivery channels and processes has been established;",
+            "e-banking / Internet insurance / Internet takaful * is included in the contingency and business resumption plans;",
+            "there are adequate resources to support the offering of e-banking / Internet insurance / Internet takaful * business;",
+            "the systems, procedures, security measures, etc. relevant to sound operations of e-banking / Internet insurance / Internet takaful * will constantly be reviewed to keep up with the latest changes."
+        ],
+        "highlighted_phrases_from_version_2": [
+            "cloud service /e-banking / Internet insurance / Internet takaful * is consistent with the bank\u2019s / insurer\u2019s / takaful operator\u2019s * strategic and business plans;",
+            "risk management process related to cloud service /e-banking / Internet insurance / Internet takaful * is subject to appropriate oversight by the board of directors and senior management;",
+            "appropriate security measures to address cloud service /e-banking / Internet insurance / Internet takaful * security concerns are in place;",
+            "customer support services and education related to cloud service /e-banking / Internet insurance / Internet takaful * are in place;",
+            "performance monitoring of cloud service /e-banking / Internet insurance / Internet takaful * products, services, delivery channels and processes has been established;",
+            "cloud service /e-banking / Internet insurance / Internet takaful * is included in the contingency and business resumption plans;",
+            "there are adequate resources to support the offering of cloud service /e-banking / Internet insurance / Internet takaful * business;",
+            "the systems, procedures, security measures, etc. relevant to sound operations of cloud service /e-banking / Internet insurance / Internet takaful * will constantly be reviewed to keep up with the latest changes."
+        ]
+    },
+    {
+        "old_section_no": null,
+        "new_section_no": "Appendix 9",
+        "section": "Supervisory Expectations on External Party Assurance",
+        "difference": "",
+        "impact": "The section mandates that financial institutions engage independent external service providers (ESPs) to conduct thorough assessments of their risk management and security controls. This requirement aims to enhance the integrity and reliability of financial services by ensuring that institutions are held accountable for their security measures. The emphasis on comprehensive risk assessments and validation of control measures is likely to lead to improved security practices across the sector, fostering greater consumer trust. However, the requirement may impose additional costs and operational burdens on financial institutions, particularly smaller entities that may struggle to meet these standards. The detailed specifications for security controls, especially regarding online transactions, indicate a shift towards a more robust regulatory environment, which could influence future policy developments in cybersecurity and financial regulation. Additionally, the focus on independent validation may lead to a more competitive landscape among ESPs, potentially driving innovation in security solutions. Overall, while the intent is to bolster security and risk management, the implications for compliance costs and operational adjustments must be carefully considered by stakeholders.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "Financial Institutions are required to provide an external assurance",
+            "The independent ESP must understand the proposed services, the data flows, system architecture, connectivity as well as its dependencies.",
+            "The independent ESP shall review the comprehensiveness of the risk assessment performed by the financial institution",
+            "validate the adequacy of the control measures implemented or to be implemented.",
+            "The Risk Assessment Report shall confirm there is no exception noted based on the prescribed risk areas (Negative attestation).",
+            "Minimum controls to be assessed by the independent External Service Provider",
+            "adequate measures to authenticate customer identity and ensure legitimate transaction authorisation by the customer",
+            "implementation of end-to-end encryption for external communication",
+            "conduct penetration test to identify and rectify potential vulnerability",
+            "timely notification to customers that is sufficiently descriptive of the nature of the transaction"
+        ]
+    },
+    {
+        "old_section_no": null,
+        "new_section_no": "Appendix 10",
+        "section": "Key Risks and Control Measures for Cloud Services",
+        "difference": "",
+        "impact": "This section aims to enhance the security and operational integrity of financial institutions as they transition to public cloud services. By providing a structured framework for assessing key risks and implementing control measures, it encourages institutions to adopt a risk-based approach, which can lead to more informed decision-making and improved resilience against potential threats. The emphasis on governance and design considerations ensures that institutions not only comply with regulatory requirements but also align their cloud strategies with best practices in cybersecurity and data management. This guidance could lead to a more standardized approach across the industry, fostering greater trust in cloud solutions among stakeholders. However, there may be challenges in uniformly applying these guidelines, particularly for smaller institutions with limited resources. Additionally, the focus on specific areas such as user access management and business continuity could inadvertently lead to an overemphasis on compliance at the expense of innovation and agility in cloud adoption.",
+        "highlighted_phrases_from_version_1": [],
+        "highlighted_phrases_from_version_2": [
+            "provides additional guidance to financial institutions for the assessment of common key risks",
+            "considerations of control measures when financial institutions adopt public cloud for critical systems",
+            "apply a risk-based approach in implementing the guidance",
+            "describes the considerations governing the cloud usage policy",
+            "technology skills capacity to implement cloud services securely and effectively",
+            "designing robust cloud infrastructure",
+            "operationalising the cloud environment",
+            "emphasis on cloud architecture, cloud application delivery model",
+            "user access management, data protection, key management, cloud backup and recovery, business continuity management and cybersecurity management"
+        ]
+    }
+]

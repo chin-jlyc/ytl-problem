@@ -1,0 +1,75 @@
+[
+    {
+        "section": "Purpose and Applicability",
+        "impact": "The updated regulatory policy introduces Appendix 10, which expands the guidelines and control measures for incident management. This necessitates a review and potential revision of the Incident Management Procedure (IMP) to incorporate these new practices and standards. The current policy does not explicitly reference the new appendix, which may lead to compliance gaps. Additionally, the omission of the issuance date in the legal provision could create ambiguity regarding the applicability of the IMP, affecting compliance and enforcement.",
+        "recommended_actions": "The IMP should be updated to explicitly reference Appendix 10 and outline how the new guidelines will be integrated into the existing incident management framework. This may involve revising sections on incident handling and reporting to align with the expanded standards. Furthermore, the IMP should include a clear issuance date to eliminate ambiguity and ensure stakeholders are referencing the correct version. Training sessions may also be necessary to ensure all units understand the new requirements and how to implement them effectively.",
+        "highlighted_phrases": [
+            "Incident Management Procedure (IMP)",
+            "essential requirements in incident handling",
+            "reviewed on an annual basis",
+            "Appendix 10",
+            "guidelines or control measures",
+            "ambiguity regarding the applicability"
+        ]
+    },
+    {
+        "section": "Related Policies and Procedures",
+        "impact": "The updated regulatory policy document introduces several significant changes that affect the internal policy section. Here\u2019s a summary of the impacts:\n\n1. Issuance Dates (New Requirement): The inclusion of issuance dates for each policy document enhances clarity and provides a timeline for relevance. This necessitates an update to the internal policy to include issuance dates for all referenced documents to ensure compliance and clarity.\n\n2. Superseded Documents: The removal of older documents in the updated regulatory policy indicates a shift towards a more streamlined regulatory environment. The internal policy must be revised to reflect the current list of applicable documents, ensuring that outdated references are removed and that the organization is aligned with the latest regulatory requirements.\n\n3. Governance Formatting: The lack of proper formatting in the updated policy could lead to confusion regarding governance responsibilities. The internal policy should be reviewed for clarity and structure to ensure that it effectively communicates the responsibilities of the Board of Directors and other stakeholders, thereby enhancing compliance and governance.",
+        "recommended_actions": "The internal policy section should be updated to include the following:\n- Add issuance dates for each referenced policy document to provide clarity and context.\n- Remove any references to superseded documents and ensure that only current policies are listed.\n- Improve the formatting of the internal policy to enhance clarity and understanding of governance responsibilities. This may involve restructuring the document to clearly delineate roles and responsibilities, ensuring that all stakeholders can easily comprehend their obligations under the updated regulatory framework.\nAdditionally, training sessions may be necessary to inform relevant staff about the changes and ensure that they understand the implications for compliance and operational procedures.",
+        "highlighted_phrases": [
+            "inclusion of issuance dates",
+            "superseded documents",
+            "streamlining regulations",
+            "lack of proper formatting",
+            "governance responsibilities"
+        ]
+    },
+    {
+        "section": "Glossary of Key Terms",
+        "impact": "The updated regulatory policy introduces changes in terminology and definitions that may affect the internal glossary. Specifically, the term 'prescribed institution' replaces 'prescribed development financial institution', which broadens the scope of entities covered under this definition. This change necessitates a review and potential update of the glossary to ensure alignment with the new terminology. Additionally, the inclusion of issuance dates in Version 2 of related legal instruments may require the addition of a definition for 'issuance date' to clarify its relevance in compliance contexts.",
+        "recommended_actions": "The glossary should be updated to reflect the new terminology, specifically replacing 'prescribed development financial institution' with 'prescribed institution'. Furthermore, a new entry for 'issuance date' should be added to provide clarity on the relevance of document timelines. It is also recommended to review other related terms to ensure consistency with the updated regulatory definitions. This will help maintain compliance and ensure that all stakeholders have a clear understanding of the terms used in the policy.",
+        "highlighted_phrases": [
+            "prescribed institution",
+            "issuance date",
+            "broadens the scope",
+            "regulatory oversight",
+            "compliance requirements"
+        ]
+    },
+    {
+        "section": "Roles and Responsibilities",
+        "impact": "The updated regulatory policy introduces changes that affect the roles and responsibilities outlined in the internal policy. Specifically, the emphasis on cybersecurity awareness and risk assessment may necessitate adjustments in the responsibilities of the Incident Manager and the Incident Response Team. Here are the key impacts:\n\n1. **Incident Manager**: The role may need to include responsibilities for ensuring that incident management processes incorporate cybersecurity considerations, especially in light of the removal of the annual training requirement. This could involve regular updates on cybersecurity threats and ensuring that the team is prepared to respond to incidents related to these threats.\n\n2. **Incident Response Team**: The team may need to expand its scope to include cloud service incidents, as the regulatory changes highlight the need for addressing cloud-specific risks. This will require additional training and possibly the inclusion of cloud service experts within the team to effectively manage these incidents.\n\n3. **Change Manager**: The Change Manager's responsibilities may also need to adapt to ensure that changes related to cybersecurity incidents are communicated effectively and that the impact of these changes on cloud services is assessed thoroughly.",
+        "recommended_actions": "To ensure compliance with the updated regulatory requirements, the internal policy should be revised to include the following actions:\n\n- **Update the Incident Manager's Role**: Include specific responsibilities related to cybersecurity incident management, such as ensuring that the team is trained on the latest threats and response strategies.\n- **Expand the Incident Response Team's Scope**: Incorporate cloud service incident management into the team's responsibilities, ensuring that team members receive training on cloud-specific risks and response protocols.\n- **Revise Change Management Procedures**: Ensure that the Change Manager assesses the impact of changes on both cybersecurity and cloud services, and that communication protocols are updated to reflect these changes.\n\nAdditionally, regular training sessions should be implemented to keep all team members informed about evolving cybersecurity threats and best practices, thereby enhancing the institution's overall security posture.",
+        "highlighted_phrases": [
+            "cybersecurity considerations",
+            "cloud service incidents",
+            "training on the latest threats",
+            "impact of changes on cloud services"
+        ]
+    },
+    {
+        "section": "Incident Management Overview",
+        "impact": "The updated regulatory policy emphasizes a broader Cyber Risk Framework (CRF) and enhances the oversight of technology risk management. This shift necessitates a more comprehensive approach to incident management, particularly in how incidents are assessed and reported. The following impacts are identified:\n\n1. **Incident Assessment and Categorization**: The regulatory changes require a more detailed assessment of incidents in the context of cyber risks, necessitating updates to the incident categorization process to align with the new CRF.\n\n2. **Post Deployment Monitoring**: The focus on resilience against cyber threats means that post-deployment monitoring must include evaluations of the effectiveness of fixes in mitigating cyber risks, not just operational recovery.\n\n3. **Incident Reporting**: The postmortem report must now incorporate elements of cyber risk assessment, including governance and risk management insights, to comply with the new regulatory expectations.",
+        "recommended_actions": "To ensure compliance with the updated regulatory framework, the following actions are recommended:\n\n1. **Revise Incident Assessment Procedures**: Update the incident assessment process to include criteria for evaluating cyber risks, ensuring that incidents are categorized not only by operational impact but also by potential cyber implications.\n\n2. **Enhance Post Deployment Monitoring**: Implement additional monitoring protocols that focus on the resilience of systems against cyber threats post-fix deployment. This may involve integrating cybersecurity metrics into the monitoring process.\n\n3. **Update Incident Reporting Templates**: Modify the postmortem report template to include sections on cyber risk governance and management, ensuring that all incidents are evaluated in the context of the institution's overall cyber risk posture.\n\n4. **Training and Resources**: Allocate resources for training staff on the new incident management processes and the importance of integrating cyber risk considerations into incident handling. This will help in building a culture of awareness and preparedness against cyber threats.",
+        "highlighted_phrases": [
+            "broader Cyber Risk Framework",
+            "enhanced oversight of technology risk management",
+            "detailed assessment of incidents",
+            "resilience against cyber threats",
+            "cyber risk assessment",
+            "governance and risk management insights"
+        ]
+    },
+    {
+        "section": "Incident Categorisation and Assessment",
+        "impact": "The updated regulatory policy emphasizes a broader Cyber Risk Framework, which necessitates a more comprehensive approach to incident categorization and assessment. The following impacts are identified:\n\n1. **Holistic Cyber Risk Management**: The shift towards a Cyber Risk Framework requires the internal policy to incorporate governance and risk management aspects into the incident categorization process. This means that incidents must not only be categorized based on their immediate impact and urgency but also assessed in the context of overall cyber risk exposure.\n\n2. **Cloud Service Considerations**: With the inclusion of 'cloud service' in the regulatory updates, the internal policy must address incidents related to cloud-specific risks. This may involve revising the categorization matrix to include incidents that specifically pertain to cloud services, such as data breaches or service outages in cloud environments.\n\n3. **Continuous Compliance and Annual Assessment**: The requirement for continuous compliance and annual assessments implies that the incident categorization process must be regularly reviewed and updated. This could lead to the need for more frequent training and updates to staff on incident response protocols, ensuring they are aware of evolving risks and compliance requirements.",
+        "recommended_actions": "To align with the new regulatory requirements, the internal policy should be updated to reflect the following:\n\n1. **Revise the Incident Categorization Matrix**: Include additional categories or subcategories for incidents related to cloud services and other emerging technologies. This will ensure that all potential risks are adequately assessed and prioritized.\n\n2. **Integrate Governance and Risk Management**: Amend the policy to incorporate elements of governance and risk management into the incident assessment process. This could involve establishing a framework for evaluating incidents not just on immediate impact but also on their potential long-term implications for the organization\u2019s cyber risk posture.\n\n3. **Implement Continuous Training**: Develop a training program for staff that focuses on the new Cyber Risk Framework and the importance of continuous compliance. This will help ensure that all personnel are equipped to handle incidents in line with updated regulatory expectations.\n\n4. **Regular Policy Reviews**: Establish a schedule for regular reviews of the incident categorization policy to ensure it remains aligned with regulatory changes and emerging cyber threats. This could involve quarterly assessments and updates as necessary.",
+        "highlighted_phrases": [
+            "Holistic Cyber Risk Management",
+            "Cloud Service Considerations",
+            "Continuous Compliance",
+            "Annual Assessment",
+            "Governance and Risk Management"
+        ]
+    }
+]
